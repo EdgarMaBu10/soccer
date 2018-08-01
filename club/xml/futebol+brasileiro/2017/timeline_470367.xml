@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="000000"><![CDATA[Pe&#241;arol]]></home>
+  <away color="000099"><![CDATA[Palmeiras]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27719416" clock="13" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Mauricio Affonso</b> - 13'<br>Goal]]></result>
+    </event>
+    <event id="27719420" clock="15" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Felipe Melo</b> - 15'<br>Yellow Card]]></result>
+    </event>
+    <event id="27719425" clock="15" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Nahitan N&#225;ndez</b> - 15'<br>Yellow Card]]></result>
+    </event>
+    <event id="27719507" clock="23" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Miguel Borja</b> - 23'<br>Yellow Card]]></result>
+    </event>
+    <event id="27719659" clock="39" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Junior Arias</b> - 39'<br>Goal]]></result>
+    </event>
+    <event id="27719825" clock="45" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Willian</b> - 45'<br>Off: Egidio]]></result>
+    </event>
+    <event id="27719826" clock="45" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Tch&#234; Tch&#234;</b> - 45'<br>Off: Vitor Hugo]]></result>
+    </event>
+    <event id="27719865" clock="49" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Willian</b> - 49'<br>Goal]]></result>
+    </event>
+    <event id="27719882" clock="51" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Alex Silva</b> - 51'<br>Yellow Card]]></result>
+    </event>
+    <event id="27719954" clock="60" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Edu Dracena</b> - 60'<br>Yellow Card]]></result>
+    </event>
+    <event id="27719955" clock="61" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: &#193;ngel Rodr&#237;guez</b> - 61'<br>Off: Alex Silva]]></result>
+    </event>
+    <event id="27719962" clock="63" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Yerry Mina</b> - 63'<br>Goal - Header]]></result>
+    </event>
+    <event id="27720048" clock="73" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Willian</b> - 73'<br>Goal]]></result>
+    </event>
+    <event id="27720130" clock="80" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Michel Bastos</b> - 80'<br>Yellow Card]]></result>
+    </event>
+    <event id="27720214" clock="88" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Diego Rossi</b> - 88'<br>Off: Hern&#225;n Petrik]]></result>
+    </event>
+    <event id="27720223" clock="89" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Keno</b> - 89'<br>Off: Roger Guedes]]></result>
+    </event>
+    <event id="27720280" clock="80" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Nicol&#225;s Dibble</b> - 80'<br>Off: Marcel Novick]]></result>
+    </event>
+  </events>
+</timeline>

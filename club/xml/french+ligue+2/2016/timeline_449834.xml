@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="0000bf"><![CDATA[Brest]]></home>
+  <away color="1a1a1a"><![CDATA[Clermont Foot]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="25877119" clock="33" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>R&#233;my Dugimont</b> - 33'<br>Goal]]></result>
+    </event>
+    <event id="25877143" clock="39" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Bruno Grougi</b> - 39'<br>Yellow Card]]></result>
+    </event>
+    <event id="25877314" clock="51" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Brendan Chardonnet</b> - 51'<br>Off: Bruno Grougi]]></result>
+    </event>
+    <event id="25877447" clock="63" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Zakarie Labidi</b> - 63'<br>Off: Valentin Lavigne]]></result>
+    </event>
+    <event id="25877470" clock="65" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Steeven Joseph-Monrose</b> - 65'<br>Off: Manuel Perez]]></result>
+    </event>
+    <event id="25877511" clock="68" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Ludovic Genest</b> - 68'<br>Off: Thomas Guerbert]]></result>
+    </event>
+    <event id="25877573" clock="75" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Fabien Centonze</b> - 75'<br>Off: R&#233;my Dugimont]]></result>
+    </event>
+    <event id="25877661" clock="82" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Mamadou Thiam</b> - 82'<br>Off: Ludovic Ajorque]]></result>
+    </event>
+    <event id="25877738" clock="90" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Mamadou Thiam</b> - 90'<br>Goal]]></result>
+    </event>
+    <event id="26008471" clock="90" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Mamadou Thiam</b> - 90'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

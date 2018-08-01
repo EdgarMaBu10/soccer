@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="C60000"><![CDATA[Shanghai SIPG]]></home>
+  <away color="000099"><![CDATA[Shandong Luneng Taishan]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27533726" clock="10" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Hulk</b> - 10'<br>Goal]]></result>
+    </event>
+    <event id="27533742" clock="10" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Cai Huikang</b> - 10'<br>Off: Zhang Huachen]]></result>
+    </event>
+    <event id="27533919" clock="39" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Jin Jingdao</b> - 39'<br>Yellow Card]]></result>
+    </event>
+    <event id="27533924" clock="40" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Song Long</b> - 40'<br>Yellow Card]]></result>
+    </event>
+    <event id="27533976" clock="46" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Papiss Demba Cisse</b> - 46'<br>Goal]]></result>
+    </event>
+    <event id="27534033" clock="57" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Wu Xinghan</b> - 57'<br>Off: Jin Jingdao]]></result>
+    </event>
+    <event id="27534041" clock="59" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Liu Binbin</b> - 59'<br>Off: Liu Junshuai]]></result>
+    </event>
+    <event id="27534111" clock="69" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Wei Shihao</b> - 69'<br>Off: Hulk]]></result>
+    </event>
+    <event id="27534167" clock="79" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Oscar</b> - 79'<br>Yellow Card]]></result>
+    </event>
+    <event id="27534175" clock="80" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Wang Tong</b> - 80'<br>Yellow Card]]></result>
+    </event>
+    <event id="27534198" clock="79" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Qi Tianyu</b> - 79'<br>Yellow Card]]></result>
+    </event>
+    <event id="27534202" clock="83" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Wei Shihao</b> - 83'<br>Goal]]></result>
+    </event>
+    <event id="27534214" clock="83" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Lin Chuangyi</b> - 83'<br>Off: Cai Huikang]]></result>
+    </event>
+    <event id="27534216" clock="85" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Wei Cui</b> - 85'<br>Off: Wang Tong]]></result>
+    </event>
+    <event id="27534229" clock="88" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Graziano Pell&#233;</b> - 88'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

@@ -3,8 +3,22 @@
 require "csv"
 require "nokogiri"
 
+require "cgi"
+
 args = ARGV
 dir = args[0]
+
+print "Target dir is #{dir}\n"
+
+if (args[1..-1].size==1) and (args[1].include?('*'))
+  print "No xml files to process; skipping.\n"
+  exit
+end
+
+if not(File.directory?(dir))
+  print "Target csv directory missing; skipping.\n"
+  exit
+end
 
 gamecast = CSV.open("#{dir}/gamecast.csv", "w")
 attacks =  CSV.open("#{dir}/attacks.csv","w")
@@ -21,8 +35,12 @@ args[1..-1].each do |file|
   game_id = file_name.split("_")[1].split(".")[0]
   
   print "Parsing #{game_id} ...\n"
-      
-  xml = Nokogiri::XML(File.open(file))
+
+  begin
+    xml = Nokogiri::XML(File.open(file))
+  rescue
+    next
+  end
 
   game = xml.search("/game").first
 
@@ -62,7 +80,7 @@ args[1..-1].each do |file|
 
     h = {}
     attack.children.each do |child|
-      h["#{child.name}"] = child.text.strip
+      h["#{child.name}"] = child.text.encode!("UTF-8", "ISO-8859-1", :invalid => :replace, :undef => :replace, :replace => "").strip
     end
 
     row += [h["cdata-section"]]
@@ -108,8 +126,13 @@ args[1..-1].each do |file|
 
     h = {}
     play.children.each do |child|
-      h["#{child.name}"] = child.text.strip
+      h["#{child.name}"] = child.text.encode!("UTF-8", "ISO-8859-1", :invalid => :replace, :undef => :replace, :replace => "").strip
     end
+
+    # Am I losing information here?
+    # Need to handle this for data fields
+
+    h["shotByText"].encode!("UTF-8", "ISO-8859-1", :invalid => :replace, :undef => :replace, :replace => "")
 
     row += [h["player"]]
     row += [h["result"]]
@@ -118,6 +141,7 @@ args[1..-1].each do |file|
 
     parts_xml = play.search("part")
     row += [parts_xml.size]
+
     shots << row
 
     parts_xml.each_with_index do |part,i|
@@ -135,7 +159,7 @@ args[1..-1].each do |file|
 
       h = {}
       part.children.each do |child|
-        h["#{child.name}"] = child.text.strip
+        h["#{child.name}"] = child.text.encode!("UTF-8", "ISO-8859-1", :invalid => :replace, :undef => :replace, :replace => "").strip
       end
 
       row += [h["player"]]

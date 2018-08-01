@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="19449c"><![CDATA[Club Brugge]]></home>
+  <away color="C8142F"><![CDATA[Leicester City]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="25934790" clock="5" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Marc Albrighton</b> - 5'<br>Goal]]></result>
+    </event>
+    <event id="25935653" clock="27" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Timmy Simons</b> - 27'<br>Yellow Card]]></result>
+    </event>
+    <event id="25935704" clock="29" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Riyad Mahrez</b> - 29'<br>Goal - Free-kick]]></result>
+    </event>
+    <event id="25935926" clock="34" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Bj&#246;rn Engels</b> - 34'<br>Yellow Card]]></result>
+    </event>
+    <event id="25936637" clock="48" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Islam Slimani</b> - 48'<br>Yellow Card]]></result>
+    </event>
+    <event id="25936762" clock="53" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Beno&#237;t Poulain</b> - 53'<br>Off: Bj&#246;rn Engels]]></result>
+    </event>
+    <event id="25937068" clock="60" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Ludovic Butelle</b> - 60'<br>Yellow Card]]></result>
+    </event>
+    <event id="25937097" clock="61" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Riyad Mahrez</b> - 61'<br>Penalty - Scored]]></result>
+    </event>
+    <event id="25937139" clock="62" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Leonardo Ulloa</b> - 62'<br>Off: Islam Slimani]]></result>
+    </event>
+    <event id="25937140" clock="63" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jelle Vossen</b> - 63'<br>Off: Abdoulay Diaby]]></result>
+    </event>
+    <event id="25937438" clock="70" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Ahmed Musa</b> - 70'<br>Off: Jamie Vardy]]></result>
+    </event>
+    <event id="25937782" clock="78" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Felipe Gedoz</b> - 78'<br>Off: Jos&#233; Izquierdo]]></result>
+    </event>
+    <event id="25937927" clock="81" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Demarai Gray</b> - 81'<br>Off: Riyad Mahrez]]></result>
+    </event>
+    <event id="25938284" clock="90" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Leonardo Ulloa</b> - 90'<br>Yellow Card]]></result>
+    </event>
+    <event id="25938549" clock="90" side="home" type="yellowCard" addedTime=" +4'" videoId="">
+      <result><![CDATA[<b>Ruud Vormer</b> - 90' +4'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

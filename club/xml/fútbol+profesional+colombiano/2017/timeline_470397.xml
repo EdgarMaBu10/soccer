@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="06933c"><![CDATA[Atl&#233;tico Nacional]]></home>
+  <away color="000000"><![CDATA[Botafogo]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27597198" clock="39" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Camilo</b> - 39'<br>Goal - Header]]></result>
+    </event>
+    <event id="27597303" clock="45" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Aldo Le&#227;o Ram&#237;rez</b> - 45'<br>Off: Alejandro Bernal]]></result>
+    </event>
+    <event id="27597341" clock="51" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Guilherme</b> - 51'<br>Off: Rodrigo Pimp&#227;o]]></result>
+    </event>
+    <event id="27597438" clock="66" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Gatito Fern&#225;ndez</b> - 66'<br>Yellow Card]]></result>
+    </event>
+    <event id="27597447" clock="67" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Fernandes</b> - 67'<br>Off: Camilo]]></result>
+    </event>
+    <event id="27597463" clock="69" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Macnelly Torres</b> - 69'<br>Yellow Card]]></result>
+    </event>
+    <event id="27597479" clock="71" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Cristi&#225;n D&#225;jome</b> - 71'<br>Off: Francisco N&#225;jera]]></result>
+    </event>
+    <event id="27597509" clock="75" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Sass&#225;</b> - 75'<br>Off: Roger]]></result>
+    </event>
+    <event id="27597568" clock="85" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: John Edison Mosquera</b> - 85'<br>Off: Dayro Moreno]]></result>
+    </event>
+    <event id="27597596" clock="88" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Emerson Santos</b> - 88'<br>Yellow Card]]></result>
+    </event>
+    <event id="27597625" clock="90" side="away" type="yellowCard" addedTime=" +2'" videoId="">
+      <result><![CDATA[<b>Sass&#225;</b> - 90' +2'<br>Yellow Card]]></result>
+    </event>
+    <event id="27597630" clock="90" side="away" type="goal" addedTime=" +3'" videoId="">
+      <result><![CDATA[<b>Guilherme</b> - 90' +3'<br>Goal]]></result>
+    </event>
+  </events>
+</timeline>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="000000"><![CDATA[Figueirense FC]]></home>
+  <away color="000099"><![CDATA[Gremio]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="26364476" clock="45" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Dodo</b> - 45'<br>Off: Rafael Silva]]></result>
+    </event>
+    <event id="26364676" clock="61" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Matheus</b> - 61'<br>Off: Bady]]></result>
+    </event>
+    <event id="26364696" clock="62" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Rafael Moura</b> - 62'<br>Yellow Card]]></result>
+    </event>
+    <event id="26364721" clock="64" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Batista</b> - 64'<br>Off: Guilherme]]></result>
+    </event>
+    <event id="26364778" clock="68" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Marquinhos</b> - 68'<br>Yellow Card]]></result>
+    </event>
+    <event id="26364787" clock="70" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Miller Bola&#241;os</b> - 70'<br>Yellow Card]]></result>
+    </event>
+    <event id="26364842" clock="72" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Lincoln</b> - 72'<br>Off: Miller Bola&#241;os]]></result>
+    </event>
+    <event id="26364978" clock="85" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Guilherme Amorim</b> - 85'<br>Off: Negueba]]></result>
+    </event>
+    <event id="26365120" clock="79" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: &#201;lvis</b> - 79'<br>Off: Ferrugem]]></result>
+    </event>
+    <event id="26365285" clock="89" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Marcelo Grohe</b> - 89'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

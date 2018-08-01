@@ -1,0 +1,73 @@
+year	league_id	league_key	club_id	club_key	club_name	club_url
+2016	15	spanish+primera+división	17534	leganes	Leganes	http://www.espnfc.us/club/leganes/17534/index
+2016	10	german+bundesliga	11420	rb-leipzig	RB Leipzig	http://www.espnfc.us/club/rb-leipzig/11420/index
+2016	27	english+national+league	13061	solihull-moors	Solihull Moors	http://www.espnfc.com/club/solihull-moors/13061/index
+2016	2350	chinese+super+league	12009	guangzhou-evergrande	Guangzhou Evergrande	http://www.espnfc.com/club/guangzhou-evergrande/12009/index
+2016	2350	chinese+super+league	15105	jiangsu-shuntian	Jiangsu Shuntian	http://www.espnfc.com/club/jiangsu-shuntian/15105/index
+2016	2350	chinese+super+league	15515	shanghai-sipg	Shanghai SIPG	http://www.espnfc.com/club/shanghai-sipg/15515/index
+2016	2350	chinese+super+league	18200	hebei-china-fortune-fc	Hebei China Fortune FC	http://www.espnfc.com/club/hebei-china-fortune-fc/18200/index
+2016	2350	chinese+super+league	17688	guangzhou-randf	Guangzhou R&F	http://www.espnfc.com/club/guangzhou-randf/17688/index
+2016	2350	chinese+super+league	18204	yanbian-fude-fc	Yanbian Fude FC	http://www.espnfc.com/club/yanbian-fude-fc/18204/index
+2016	2350	chinese+super+league	18202	chongqing-lifan	Chongqing Lifan	http://www.espnfc.com/club/chongqing-lifan/18202/index
+2016	2350	chinese+super+league	18203	hangzhou-greentown	Hangzhou Greentown	http://www.espnfc.com/club/hangzhou-greentown/18203/index
+2016	2350	chinese+super+league	18199	shijiazhuang-ever-bright	Shijiazhuang Ever Bright	http://www.espnfc.com/club/shijiazhuang-ever-bright/18199/index
+2016	17	swiss+super+league	11551	lausanne-sports	Lausanne Sports	http://www.espnfc.com/club/lausanne-sports/11551/index
+2016	96	french+ligue+2	11884	red-star-fc-93	Red Star FC 93	http://www.espnfc.com/club/red-star-fc-93/11884/index
+2016	96	french+ligue+2	11895	bourg-peronnas	Bourg-Peronnas	http://www.espnfc.com/club/bourg-peronnas/11895/index
+2016	96	french+ligue+2	17483	orleans	Orléans	http://www.espnfc.com/club/orleans/17483/index
+2016	97	german+2.+bundesliga	17491	wurzburger-kickers	Würzburger Kickers	http://www.espnfc.us/club/wurzburger-kickers/17491/fixtures
+2016	99	italian+serie+b	11137	virtus-entella	Virtus Entella	http://www.espnfc.us/club/virtus-entella/11137/index
+2016	99	italian+serie+b	11128	trapani	Trapani	http://www.espnfc.us/club/trapani/11128/index
+2016	107	spanish+segunda+division	17884	reus-deportiu	Reus Deportiu	http://www.espnfc.us/club/reus-deportiu/17884/index
+2016	107	spanish+segunda+division	12594	ucam-murcia	UCAM Murcia	http://www.espnfc.us/club/ucam-murcia/12594/index
+2016	14	portuguese+liga	12705	gd-chaves	GD Chaves	http://www.espnfc.us/club/gd-chaves/12705/index
+2016	14	portuguese+liga	15784	arouca	Arouca	http://www.espnfc.us/club/arouca/15784/index
+2016	14	portuguese+liga	12706	tondela	Tondela	http://www.espnfc.us/club/tondela/12706/index
+2016	508	northern+irish+premiership	12979	ards	Ards	http://www.espnfc.com/club/ards/12979/index
+2016	508	northern+irish+premiership	13446	ballinamallard-utd	Ballinamallard Utd	http://www.espnfc.com/club/ballinamallard-utd/13446/index
+2016	508	northern+irish+premiership	11691	carrick	Carrick	http://www.espnfc.us/club/carrick/11691/index
+2016	116	league+of+ireland+premier+division	18173	wexford-youths	Wexford Youths	http://www.espnfc.com/club/wexford-youths/18173/index
+2016	7	danish+sas-ligaen	11550	odense-boldklub	Odense Boldklub	http://www.espnfc.us/club/odense-boldklub/11550/index
+2016	7	danish+sas-ligaen	12504	esbjerg-fb	Esbjerg FB	http://www.espnfc.us/club/esbjerg-fb/12504/index
+2016	106	russian+premier+league	17368	fc-ufa	FC Ufa	http://www.espnfc.us/club/fc-ufa/17368/index
+2016	106	russian+premier+league	18285	gazovik-orenburg	Gazovik Orenburg	http://www.espnfc.us/club/gazovik-orenburg/18285/index
+2016	106	russian+premier+league	15582	ural-sverdlovsk-oblast	Ural Sverdlovsk Oblast	http://www.espnfc.us/club/ural-sverdlovsk-oblast/15582/index
+2016	106	russian+premier+league	17495	fc-arsenal-tula	FC Arsenal Tula	http://www.espnfc.us/club/fc-arsenal-tula/17495/index
+2016	2334	indian+super+league	18002	mumbai-city-fc	Mumbai City FC	http://www.espnfc.com/club/mumbai-city-fc/18002/index
+2016	2334	indian+super+league	17998	delhi-dynamos-fc	Delhi Dynamos FC	http://www.espnfc.com/club/delhi-dynamos-fc/17998/index
+2016	2334	indian+super+league	18001	atlético-de-kolkata	Atlético de Kolkata	http://www.espnfc.com/club/atl%C3%A9tico-de-kolkata/18001/index
+2016	2334	indian+super+league	17999	fc-pune-city	FC Pune City	http://www.espnfc.com/club/fc-pune-city/17999/index
+2016	2334	indian+super+league	17997	kerala-blasters-fc	Kerala Blasters FC	http://www.espnfc.com/club/kerala-blasters-fc/17997/index
+2016	2334	indian+super+league	18000	chennaiyin-fc	Chennaiyin FC	http://www.espnfc.com/club/chennaiyin-fc/18000/index
+2016	2334	indian+super+league	18004	northeast-united-fc	NorthEast United FC	http://www.espnfc.com/club/northeast-united-fc/18004/index
+2016	2334	indian+super+league	18003	fc-goa	FC Goa	http://www.espnfc.com/club/fc-goa/18003/index
+2016	6	belgian+jupiler+league	13450	waasland-beveren	Waasland-Beveren	http://www.espnfc.us/club/waasland-beveren/13450/index
+2016	6	belgian+jupiler+league	12514	mouscron-peruwelz	Mouscron-Peruwelz	http://www.espnfc.us/club/mouscron-peruwelz/12514/index
+2016	5	austrian+bundesliga	13294	rz-pellets-wac	RZ Pellets WAC	http://www.espnfc.us/club/rz-pellets-wac/13294/index
+2016	5	austrian+bundesliga	11485	fc-admira-wacker-modling	FC Admira Wacker Modling	http://www.espnfc.us/club/fc-admira-wacker-modling/11485/index
+2016	5	austrian+bundesliga	17519	st.-pölten	St. Pölten	http://www.espnfc.us/club/st.-p%C3%B6lten/17519/index
+2016	2354	romanian+first+division	11450	gaz-metan	Gaz Metan	http://www.espnfc.us/club/gaz-metan/11450/index
+2016	2354	romanian+first+division	12611	viitorul-constanta	Viitorul Constanta	http://www.espnfc.us/club/viitorul-constanta/12611/index
+2016	2354	romanian+first+division	18332	voluntari	Voluntari	http://www.espnfc.us/club/voluntari/18332/index
+2016	2354	romanian+first+division	17537	fk-astra-giurgiu	FK Astra Giurgiu	http://www.espnfc.us/club/fk-astra-giurgiu/17537/index
+2016	2354	romanian+first+division	18320	csms-iasi	CSMS Iasi	http://www.espnfc.us/club/csms-iasi/18320/index
+2016	2354	romanian+first+division	17881	asa-targu-mures	ASA Targu Mures	http://www.espnfc.us/club/asa-targu-mures/17881/index
+2016	2354	romanian+first+division	18356	acs-poli-timisoara	ACS Poli Timisoara	http://www.espnfc.us/club/acs-poli-timisoara/18356/index
+2016	18	turkish+super+lig	18321	osmanlispor	Osmanlispor	http://www.espnfc.us/club/osmanlispor/18321/index
+2016	18	turkish+super+lig	18330	akhisar-belediyespor	Akhisar Belediyespor	http://www.espnfc.us/club/akhisar-belediyespor/18330/index
+2016	98	greek+super+league	11431	panetolikos	Panetolikos	http://www.espnfc.us/club/panetolikos/11431/index
+2016	98	greek+super+league	12769	platanias	Platanias	http://www.espnfc.us/club/platanias/12769/index
+2016	98	greek+super+league	10418	larissa-fc	Larissa FC	http://www.espnfc.us/club/larissa-fc/10418/index
+2016	2359	israeli+premier+league	13083	hapoel-be'er	Hapoel Be'er	http://www.espnfc.us/club/hapoel-be'er/13083/index
+2016	2359	israeli+premier+league	18352	hapoel-ra'anana	Hapoel Ra'anana	http://www.espnfc.us/club/hapoel-ra'anana/18352/index
+2016	2359	israeli+premier+league	18351	hapoel-ashkelon	Hapoel Ashkelon	http://www.espnfc.us/club/hapoel-ashkelon/18351/index
+2016	2294	nacional+b+de+argentina	11674	guillermo-brown	Guillermo Brown	http://www.espnfc.us/club/guillermo-brown/11674/index
+2016	2294	nacional+b+de+argentina	17814	san-martin-de-tucuman	San Martin de Tucuman	http://www.espnfc.us/club/san-martin-de-tucuman/17814/index
+2016	2294	nacional+b+de+argentina	10489	boca-unidos	Boca Unidos	http://www.espnfc.us/club/boca-unidos/10489/index
+2016	2294	nacional+b+de+argentina	11989	ctral-cordoba-se	Ctral. Córdoba SE	http://www.espnfc.us/club/ctral-cordoba-se/11989/index
+2016	2294	nacional+b+de+argentina	13935	sp-estudiantes-san-luis	Sp. Estudiantes (San Luis)	http://www.espnfc.us/club/sp-estudiantes-san-luis/13935/index
+2016	2294	nacional+b+de+argentina	11942	douglas-haig	Douglas Haig	http://www.espnfc.us/club/douglas-haig/11942/index
+2016	2294	nacional+b+de+argentina	10996	santamarina	Santamarina	http://www.espnfc.us/club/santamarina/10996/index
+2016	2294	nacional+b+de+argentina	11950	at-parana	At. Paraná	http://www.espnfc.us/club/at-parana/11950/index
+2016	2294	nacional+b+de+argentina	11948	juventud-unida-g	Juventud Unida (G)	http://www.espnfc.us/club/juventud-unida-g/11948/index
+2016	2294	nacional+b+de+argentina	11958	crucero-del-norte	Crucero del Norte	http://www.espnfc.us/club/crucero-del-norte/11958/index

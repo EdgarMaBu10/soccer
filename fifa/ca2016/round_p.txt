@@ -1,0 +1,9 @@
+BEGIN
+ rd |   name    |   p   
+----+-----------+-------
+  4 | Argentina | 0.622
+  4 | Chile     | 0.378
+(2 rows)
+
+COPY 2
+COMMIT

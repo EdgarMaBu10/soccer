@@ -40,10 +40,10 @@ case when g.club_id=g.home_team_id
      when (home_goals=away_goals) then 1
 else 0
 end) as pts,
-(coalesce(sc.n,0)::float/100000::float)::numeric(4,3) as champ,
-((coalesce(sc.n,0)+coalesce(s2.n,0)+coalesce(s3.n,0)+coalesce(s4.n,0))::float/100000::float)::numeric(4,3) as "1-4",
-((coalesce(s5.n,0)+coalesce(s6.n,0)+coalesce(s7.n,0))::float/100000::float)::numeric(4,3) as "5-7",
-((coalesce(s18.n,0)+coalesce(s19.n,0)+coalesce(s20.n,0))::float/100000::float)::numeric(4,3) as rlg
+(coalesce(sc.n,0)::float/10000::float)::numeric(4,3) as champ,
+((coalesce(sc.n,0)+coalesce(s2.n,0)+coalesce(s3.n,0)+coalesce(s4.n,0))::float/10000::float)::numeric(4,3) as "1-4",
+((coalesce(s5.n,0)+coalesce(s6.n,0)+coalesce(s7.n,0))::float/10000::float)::numeric(4,3) as "5-7",
+((coalesce(s18.n,0)+coalesce(s19.n,0)+coalesce(s20.n,0))::float/10000::float)::numeric(4,3) as rlg
 
 from club.games g
 left join club.seeds sc
@@ -68,9 +68,9 @@ left join club.seeds s20
   on (g.club_name,20)=(s20.team_name,s20.rank)
 where
     not(g.date='LIVE')
-and g.league_key = 'barclays+premier+league'
+and g.league_key = 'english+premier+league'
 and g.competition='Prem'
-and g.year=2015
+and g.year=2016
 and g.date::date <= current_date
 and g.home_goals is not null
 and g.away_goals is not null

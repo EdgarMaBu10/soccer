@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="6bc7f5"><![CDATA[Cerro]]></home>
+  <away color="C22222"><![CDATA[Uni&#243;n Espa&#241;ola]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27003741" clock="29" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Jorge Ampuero</b> - 29'<br>Yellow Card]]></result>
+    </event>
+    <event id="27003757" clock="35" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Diego Chur&#237;n</b> - 35'<br>Goal]]></result>
+    </event>
+    <event id="27003761" clock="39" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Rodrigo Canosa</b> - 39'<br>Yellow Card]]></result>
+    </event>
+    <event id="27003769" clock="42" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Richard Pellejero</b> - 42'<br>Goal - Header]]></result>
+    </event>
+    <event id="27003771" clock="44" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Gianni Danielle Rodr&#237;guez</b> - 44'<br>Yellow Card]]></result>
+    </event>
+    <event id="27003778" clock="45" side="away" type="goal" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Carlos Sal&#243;m</b> - 45' +1'<br>Goal]]></result>
+    </event>
+    <event id="27003786" clock="45" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Fernando Meneses</b> - 45'<br>Off: Diego Chur&#237;n]]></result>
+    </event>
+    <event id="27003814" clock="52" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jonathan Barboza</b> - 52'<br>Off: Facundo Moreira]]></result>
+    </event>
+    <event id="27003871" clock="65" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jos&#233; Tancredi Malatez</b> - 65'<br>Off: Rodrigo Izquierdo]]></result>
+    </event>
+    <event id="27003910" clock="76" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>C&#233;sar Pinares</b> - 76'<br>Yellow Card]]></result>
+    </event>
+    <event id="27003912" clock="77" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>&#193;ngelo Pizzorno</b> - 77'<br>Goal]]></result>
+    </event>
+    <event id="27003917" clock="79" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Pablo Ar&#225;nguiz</b> - 79'<br>Off: Pablo Manuel Galdames]]></result>
+    </event>
+    <event id="27003941" clock="85" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Oscar Hernandez</b> - 85'<br>Off: C&#233;sar Pinares]]></result>
+    </event>
+    <event id="27003954" clock="86" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Jonathan Barboza</b> - 86'<br>Yellow Card]]></result>
+    </event>
+    <event id="27003971" clock="89" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Sebasti&#225;n Jaime</b> - 89'<br>Goal]]></result>
+    </event>
+  </events>
+</timeline>

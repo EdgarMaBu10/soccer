@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <timeline clock="90" videoEnabled="f">
-  <home color="C8142F"><![CDATA[Melgar]]></home>
-  <away color="000000"><![CDATA[Independiente del Valle]]></away>
+  <home color="000000"><![CDATA[Melgar]]></home>
+  <away color="C60000"><![CDATA[Independiente del Valle]]></away>
   <period>2</period>
   <gameStatus>FINAL</gameStatus>
   <gameStatusText>FT</gameStatusText>
@@ -10,7 +10,7 @@
       <result><![CDATA[<b>Junior Sornoza</b> - 36'<br>Goal]]></result>
     </event>
     <event id="24458188" clock="45" side="away" type="substitution" addedTime="" videoId="">
-      <result><![CDATA[<b>On: Luis Luis Le&#243;n</b> - 45'<br>Off: Arturo Mina Meza]]></result>
+      <result><![CDATA[<b>On: Luis Le&#243;n</b> - 45'<br>Off: Arturo Mina Meza]]></result>
     </event>
     <event id="24458250" clock="45" side="home" type="substitution" addedTime="" videoId="">
       <result><![CDATA[<b>On: Diego Estrada</b> - 45'<br>Off: Patricio Arce]]></result>

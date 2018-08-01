@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="8E003B"><![CDATA[Heart of Midlothian]]></home>
+  <away color="ffff00"><![CDATA[Hibernian]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27092939" clock="29" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Darren McGregor</b> - 29'<br>Yellow Card]]></result>
+    </event>
+    <event id="27093193" clock="45" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Bjorn Maars</b> - 45'<br>Off: Malaury Martin]]></result>
+    </event>
+    <event id="27093312" clock="54" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Liam Fontaine</b> - 54'<br>Off: Jordan Forster]]></result>
+    </event>
+    <event id="27093337" clock="56" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>John McGinn</b> - 56'<br>Yellow Card]]></result>
+    </event>
+    <event id="27093434" clock="65" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Arnaud Sutchuin Djum</b> - 65'<br>Off: Sam Nicholson]]></result>
+    </event>
+    <event id="27093635" clock="79" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Brian Graham</b> - 79'<br>Off: Grant Holt]]></result>
+    </event>
+    <event id="27093636" clock="79" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Krystian  Nowak</b> - 79'<br>Off: Don Cowie]]></result>
+    </event>
+    <event id="27093922" clock="90" side="home" type="yellowCard" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Esma&#235;l Gon&#231;alves</b> - 90' +1'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

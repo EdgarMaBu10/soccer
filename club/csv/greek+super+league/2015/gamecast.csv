@@ -1,11 +1,11 @@
-429331,2015,greek+super+league,605,000000,PAOK Salonika,17857,C60000,NK Lokomotiva Zagreb
-429366,2015,greek+super+league,17857,000000,NK Lokomotiva Zagreb,605,000099,PAOK Salonika
+429331,2015,greek+super+league,605,000000,PAOK Salonika,4413,000099,NK Zagreb
+429366,2015,greek+super+league,4413,C8142F,NK Zagreb,605,000000,PAOK Salonika
 430572,2015,greek+super+league,570,19449c,Club Brugge,443,C8142F,Panathinaikos
 430576,2015,greek+super+league,443,C8142F,Panathinaikos,570,19449c,Club Brugge
-431464,2015,greek+super+league,6790,C8142F,Atromitos,3030,000099,AIK Solna
-431476,2015,greek+super+league,3929,C8142F,FC Spartak Trnava,605,000000,PAOK Salonika
-431487,2015,greek+super+league,3030,C8142F,AIK Solna,6790,000099,Atromitos
-431491,2015,greek+super+league,605,000000,PAOK Salonika,3929,000099,FC Spartak Trnava
+431464,2015,greek+super+league,6790,C8142F,Atromitos,994,000000,AIK
+431476,2015,greek+super+league,3929,000000,FC Spartak Trnava,605,000099,PAOK Salonika
+431487,2015,greek+super+league,994,000000,AIK,6790,000099,Atromitos
+431491,2015,greek+super+league,605,000000,PAOK Salonika,3929,C60000,FC Spartak Trnava
 432917,2015,greek+super+league,436,ffff00,Fenerbahce,6790,000099,Atromitos
 432930,2015,greek+super+league,575,C8142F,Brøndby,605,000000,PAOK Salonika
 432931,2015,greek+super+league,17502,000000,FK Qabala,443,000099,Panathinaikos
@@ -296,3 +296,18 @@
 446838,2015,greek+super+league,887,000000,AEK Athens,2789,000099,Panionios
 446839,2015,greek+super+league,15723,000000,Kalloni AEL,6790,000099,Atromitos
 446841,2015,greek+super+league,605,000000,PAOK Salonika,5276,000099,Levadiakos
+448463,2015,greek+super+league,2789,C8142F,Panionios,443,000099,Panathinaikos
+448464,2015,greek+super+league,605,000000,PAOK Salonika,887,000099,AEK Athens
+448616,2015,greek+super+league,887,000000,AEK Athens,2789,000099,Panionios
+448617,2015,greek+super+league,443,C8142F,Panathinaikos,605,000000,PAOK Salonika
+448628,2015,greek+super+league,2789,C8142F,Panionios,605,000000,PAOK Salonika
+448629,2015,greek+super+league,443,C8142F,Panathinaikos,887,000000,AEK Athens
+448737,2015,greek+super+league,2789,C8142F,Panionios,605,000000,PAOK Salonika
+448738,2015,greek+super+league,443,C8142F,Panathinaikos,887,000000,AEK Athens
+448739,2015,greek+super+league,887,000000,AEK Athens,2789,000099,Panionios
+448740,2015,greek+super+league,605,000000,PAOK Salonika,2789,000099,Panionios
+448741,2015,greek+super+league,887,000000,AEK Athens,443,000099,Panathinaikos
+448742,2015,greek+super+league,443,C8142F,Panathinaikos,2789,000099,Panionios
+448743,2015,greek+super+league,887,000000,AEK Athens,605,000099,PAOK Salonika
+448826,2015,greek+super+league,605,000000,PAOK Salonika,443,000099,Panathinaikos
+448827,2015,greek+super+league,2789,C8142F,Panionios,887,000000,AEK Athens

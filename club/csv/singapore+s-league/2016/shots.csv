@@ -1,5 +1,5 @@
 441611,2016,singapore+s-league,24029660,5,,1,1.0,0.0,8891,t,f,f,,Jeje Lalpekhula,<b>Jeje Lalpekhula</b> - 5' <br>Goal,(5'),Shot by Jeje Lalpekhula,1
-441611,2016,singapore+s-league,24029661,41,,1,1.0,0.0,8891,t,f,f,,Cornell Glenn,<b>Cornell Glenn</b> - 41' <br>Goal,(41'),Shot by Cornell Glenn,1
+441611,2016,singapore+s-league,24029661,41,,1,1.0,0.0,8891,t,f,f,,Cornell Glen,<b>Cornell Glen</b> - 41' <br>Goal,(41'),Shot by Cornell Glen,1
 441611,2016,singapore+s-league,24029662,43,,1,0.0,1.0,7998,t,f,f,,Muhammad Hanapi,<b>Muhammad Hanapi</b> - 43' <br>Goal,(43'),Shot by Muhammad Hanapi,1
 441611,2016,singapore+s-league,24029663,83,,2,1.0,0.0,8891,t,f,f,,Katsumi Yusa,<b>Katsumi Yusa</b> - 83' <br>Goal,(83'),Shot by Katsumi Yusa,1
 444160,2016,singapore+s-league,24268308,34,,1,1.0,0.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 34' <br>Goal,(34'),Shot by Stipe  Plazibat,1
@@ -62,7 +62,216 @@
 444187,2016,singapore+s-league,24887987,50,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 50' <br>Goal,(50'),Shot by Ramazotti,1
 444187,2016,singapore+s-league,24887988,58,,2,1.0,0.0,8039,t,t,f,,Bin Azmi Amirul,<b>Bin Azmi Amirul</b> - 58' <br>Own Goal,(58' OG),Shot by Bin Azmi Amirul,1
 444187,2016,singapore+s-league,24887989,82,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 82' <br>Penalty - Scored,(82' PEN),Shot by Ramazotti,1
+444188,2016,singapore+s-league,24968060,18,,1,0.0,1.0,17736,t,f,f,,Fumiya Kogure,<b>Fumiya Kogure</b> - 18' <br>Goal,(18'),Shot by Fumiya Kogure,1
+444189,2016,singapore+s-league,24977217,14,,1,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 14' <br>Goal,(14'),Shot by Ken Ilso Larsen,1
+444189,2016,singapore+s-league,24977218,23,,1,1.0,0.0,7938,t,f,f,,Stanely Ng,<b>Stanely Ng</b> - 23' <br>Goal,(23'),Shot by Stanely Ng,1
+444189,2016,singapore+s-league,24977219,38,,1,0.0,1.0,7938,t,t,f,,Abdul Rahman,<b>Abdul Rahman</b> - 38' <br>Own Goal,(38' OG),Shot by Abdul Rahman,1
+444189,2016,singapore+s-league,24977220,46,,2,1.0,0.0,7938,t,f,f,,Amy Recha  Pristifana Bin Samion,<b>Amy Recha  Pristifana Bin Samion</b> - 46' <br>Goal,(46'),Shot by Amy Recha  Pristifana Bin Samion,1
+444191,2016,singapore+s-league,24984733,70,,2,1.0,0.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 70' <br>Penalty - Scored,(70' PEN),Shot by Tatsuro Inui,1
+444192,2016,singapore+s-league,25072737,4,,1,1.0,0.0,7939,t,f,f,,Miroslav Kristic,<b>Miroslav Kristic</b> - 4' <br>Goal,(4'),Shot by Miroslav Kristic,1
+444192,2016,singapore+s-league,25072738,37,,1,1.0,0.0,7939,t,f,f,,Fadli Kamis,<b>Fadli Kamis</b> - 37' <br>Goal,(37'),Shot by Fadli Kamis,1
+444193,2016,singapore+s-league,25072733,28,,1,0.0,1.0,7998,t,f,f,,Yasir Hanapi,<b>Yasir Hanapi</b> - 28' <br>Goal,(28'),Shot by Yasir Hanapi,1
+444194,2016,singapore+s-league,25076205,20,,1,0.0,1.0,8040,t,f,f,,Ui Young Song,<b>Ui Young Song</b> - 20' <br>Goal,(20'),Shot by Ui Young Song,1
+444194,2016,singapore+s-league,25076207,63,,2,1.0,0.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 63' <br>Goal,(63'),Shot by Jonathan Behe,1
+444194,2016,singapore+s-league,25076208,85,,2,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 85' <br>Goal,(85'),Shot by Ken Ilso Larsen,1
+444195,2016,singapore+s-league,25076212,57,,2,1.0,0.0,17734,t,f,f,,Azwan Bin Muhamad Saleh,<b>Azwan Bin Muhamad Saleh</b> - 57' <br>Goal,(57'),Shot by Azwan Bin Muhamad Saleh,1
+444195,2016,singapore+s-league,25076213,72,,2,0.0,1.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 72' <br>Goal,(72'),Shot by Atsushi Kawata,1
+444195,2016,singapore+s-league,25076214,87,,2,0.0,1.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 87' <br>Penalty - Scored,(87' PEN),Shot by Atsushi Kawata,1
+444196,2016,singapore+s-league,25139650,15,,1,1.0,0.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 15' <br>Goal,(15'),Shot by Tatsuro Inui,1
+444196,2016,singapore+s-league,25139651,28,,1,1.0,0.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 28' <br>Goal,(28'),Shot by Atsushi Kawata,1
+444196,2016,singapore+s-league,25139652,78,,2,1.0,0.0,8011,t,f,f,,Kento Nagasaki,<b>Kento Nagasaki</b> - 78' <br>Goal,(78'),Shot by Kento Nagasaki,1
+444197,2016,singapore+s-league,25146394,16,,1,1.0,0.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 16' <br>Goal,(16'),Shot by Ken Ilso Larsen,1
+444197,2016,singapore+s-league,25146395,28,,1,1.0,0.0,8040,t,f,f,,Ui Young Song,<b>Ui Young Song</b> - 28' <br>Goal,(28'),Shot by Ui Young Song,1
+444197,2016,singapore+s-league,25146396,42,,1,0.0,1.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 42' <br>Penalty - Scored,(42' PEN),Shot by Stipe  Plazibat,1
+444197,2016,singapore+s-league,25146397,78,,2,1.0,0.0,8040,t,f,f,,Faris Ramli,<b>Faris Ramli</b> - 78' <br>Goal,(78'),Shot by Faris Ramli,1
+444197,2016,singapore+s-league,25146398,86,,2,0.0,1.0,17736,t,f,f,,Raihan Rahman,<b>Raihan Rahman</b> - 86' <br>Goal,(86'),Shot by Raihan Rahman,1
+444198,2016,singapore+s-league,25152327,38,,1,1.0,0.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 38' <br>Goal,(38'),Shot by Billy Mehmet,1
+444198,2016,singapore+s-league,25152328,42,,1,0.0,1.0,7999,t,f,f,,Hafiz Nor,<b>Hafiz Nor</b> - 42' <br>Goal,(42'),Shot by Hafiz Nor,1
+444198,2016,singapore+s-league,25152329,45,,0,0.0,1.0,7999,t,f,f,,Muhammad Ridhuan,<b>Muhammad Ridhuan</b> - 45' <br>Goal,(45'),Shot by Muhammad Ridhuan,1
+444198,2016,singapore+s-league,25152330,54,,2,1.0,0.0,7998,t,f,f,,Jermaine Pennant,<b>Jermaine Pennant</b> - 54' <br>Penalty - Scored,(54' PEN),Shot by Jermaine Pennant,1
+444198,2016,singapore+s-league,25152331,75,,2,1.0,0.0,7998,t,f,f,,Hafiz Abu Sujad,<b>Hafiz Abu Sujad</b> - 75' <br>Goal,(75'),Shot by Hafiz Abu Sujad,1
+444198,2016,singapore+s-league,25152332,88,,2,1.0,0.0,7998,t,f,f,,Hafiz Abu Sujad,<b>Hafiz Abu Sujad</b> - 88' <br>Goal,(88'),Shot by Hafiz Abu Sujad,1
+444199,2016,singapore+s-league,25155370,29,,1,0.0,1.0,7938,t,f,f,,Sufian Anuar,<b>Sufian Anuar</b> - 29' <br>Goal,(29'),Shot by Sufian Anuar,1
+444199,2016,singapore+s-league,25155388,65,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 65' <br>Penalty - Scored,(65' PEN),Shot by Ramazotti,1
+444199,2016,singapore+s-league,25155436,86,,2,0.0,1.0,7938,t,f,f,,Mohammad Hameed,<b>Mohammad Hameed</b> - 86' <br>Goal,(86'),Shot by Mohammad Hameed,1
+444201,2016,singapore+s-league,25207315,60,,2,0.0,1.0,17734,t,f,f,,Goncalves Paulo Sergio,<b>Goncalves Paulo Sergio</b> - 60' <br>Goal,(60'),Shot by Goncalves Paulo Sergio,1
+444201,2016,singapore+s-league,25207316,89,,2,1.0,0.0,7999,t,f,f,,Marijan Suto,<b>Marijan Suto</b> - 89' <br>Goal,(89'),Shot by Marijan Suto,1
+444202,2016,singapore+s-league,25207319,3,,1,1.0,0.0,7938,t,f,f,,Carlos Alberto Delgado,<b>Carlos Alberto Delgado</b> - 3' <br>Penalty - Scored,(3' PEN),Shot by Carlos Alberto Delgado,1
+444202,2016,singapore+s-league,25207321,52,,2,0.0,1.0,8039,t,f,f,,Fareez Farhan,<b>Fareez Farhan</b> - 52' <br>Goal,(52'),Shot by Fareez Farhan,1
+444202,2016,singapore+s-league,25207322,75,,2,1.0,0.0,7938,t,f,f,,Yuki Ichikawa,<b>Yuki Ichikawa</b> - 75' <br>Goal,(75'),Shot by Yuki Ichikawa,1
+444202,2016,singapore+s-league,25207323,88,,2,1.0,0.0,7938,t,f,f,,Gabriel Quak,<b>Gabriel Quak</b> - 88' <br>Goal,(88'),Shot by Gabriel Quak,1
+444203,2016,singapore+s-league,25211640,7,,1,1.0,0.0,8011,t,f,f,,Atsushi Shirota,<b>Atsushi Shirota</b> - 7' <br>Goal,(7'),Shot by Atsushi Shirota,1
+444203,2016,singapore+s-league,25211641,28,,1,1.0,0.0,8011,t,f,f,,Hiroyoshi Kamata,<b>Hiroyoshi Kamata</b> - 28' <br>Goal,(28'),Shot by Hiroyoshi Kamata,1
+444203,2016,singapore+s-league,25211642,54,,2,1.0,0.0,8011,t,f,f,,Naofumi Tanaka,<b>Naofumi Tanaka</b> - 54' <br>Goal,(54'),Shot by Naofumi Tanaka,1
+444203,2016,singapore+s-league,25211643,57,,2,1.0,0.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 57' <br>Goal,(57'),Shot by Tatsuro Inui,1
+444203,2016,singapore+s-league,25211644,66,,2,1.0,0.0,8011,t,f,f,,Kento Nagasaki,<b>Kento Nagasaki</b> - 66' <br>Goal,(66'),Shot by Kento Nagasaki,1
+444203,2016,singapore+s-league,25211645,80,,2,1.0,0.0,8011,t,f,f,,Hiroyoshi Kamata,<b>Hiroyoshi Kamata</b> - 80' <br>Goal,(80'),Shot by Hiroyoshi Kamata,1
+444204,2016,singapore+s-league,25277776,6,,1,1.0,0.0,8039,t,f,f,,Muhammad Muhaimin Bin Suhaimi,<b>Muhammad Muhaimin Bin Suhaimi</b> - 6' <br>Goal,(6'),Shot by Muhammad Muhaimin Bin Suhaimi,1
+444204,2016,singapore+s-league,25277777,16,,1,1.0,0.0,8039,t,f,f,,Muhammad Faiz,<b>Muhammad Faiz</b> - 16' <br>Goal,(16'),Shot by Muhammad Faiz,1
+444204,2016,singapore+s-league,25277778,50,,2,1.0,0.0,8039,t,f,f,,Mohammad  Kamal,<b>Mohammad  Kamal</b> - 50' <br>Goal,(50'),Shot by Mohammad  Kamal,1
+444204,2016,singapore+s-league,25277779,85,,2,0.0,1.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 85' <br>Goal,(85'),Shot by Jonathan Behe,1
+444206,2016,singapore+s-league,25289565,21,,1,1.0,0.0,7939,t,f,f,,Muhammad Fadhil Bin Noh,<b>Muhammad Fadhil Bin Noh</b> - 21' <br>Goal,(21'),Shot by Muhammad Fadhil Bin Noh,1
+444206,2016,singapore+s-league,25289566,39,,1,0.0,1.0,7938,t,f,f,,Branko Cubrilo,<b>Branko Cubrilo</b> - 39' <br>Goal,(39'),Shot by Branko Cubrilo,1
+444206,2016,singapore+s-league,25289590,76,,2,0.0,1.0,7938,t,f,f,,Carlos Alberto Delgado,<b>Carlos Alberto Delgado</b> - 76' <br>Penalty - Scored,(76' PEN),Shot by Carlos Alberto Delgado,1
+444206,2016,singapore+s-league,25289592,76,,2,0.0,1.0,7938,t,f,f,,Branko Cubrilo,<b>Branko Cubrilo</b> - 76' <br>Goal,(76'),Shot by Branko Cubrilo,1
+444208,2016,singapore+s-league,25321735,14,,1,0.0,1.0,8039,t,f,f,,Fareez Farhan,<b>Fareez Farhan</b> - 14' <br>Penalty - Scored,(14' PEN),Shot by Fareez Farhan,1
+444208,2016,singapore+s-league,25321736,18,,1,1.0,0.0,17736,t,f,f,,Nurhilmi Jasni,<b>Nurhilmi Jasni</b> - 18' <br>Goal,(18'),Shot by Nurhilmi Jasni,1
+444209,2016,singapore+s-league,25321727,9,,1,1.0,0.0,8040,t,f,f,,Azhar Sairudin,<b>Azhar Sairudin</b> - 9' <br>Goal,(9'),Shot by Azhar Sairudin,1
+444209,2016,singapore+s-league,25321728,39,,1,1.0,0.0,8040,t,f,f,,Faris Ramli,<b>Faris Ramli</b> - 39' <br>Goal,(39'),Shot by Faris Ramli,1
+444209,2016,singapore+s-league,25321730,71,,2,1.0,0.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 71' <br>Goal,(71'),Shot by Ken Ilso Larsen,1
+444209,2016,singapore+s-league,25321731,73,,2,1.0,0.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 73' <br>Goal,(73'),Shot by Ken Ilso Larsen,1
+444209,2016,singapore+s-league,25321732,84,,2,1.0,0.0,8040,t,f,f,,Mohd Miswan,<b>Mohd Miswan</b> - 84' <br>Goal,(84'),Shot by Mohd Miswan,1
+444210,2016,singapore+s-league,25324473,18,,1,1.0,0.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 18' <br>Goal,(18'),Shot by Jonathan Behe,1
+444210,2016,singapore+s-league,25324474,29,,1,0.0,1.0,7939,t,f,f,,Miroslav Kristic,<b>Miroslav Kristic</b> - 29' <br>Goal,(29'),Shot by Miroslav Kristic,1
+444212,2016,singapore+s-league,25475823,10,,1,1.0,0.0,7939,t,f,f,,Niko Tokic,<b>Niko Tokic</b> - 10' <br>Goal,(10'),Shot by Niko Tokic,1
+444212,2016,singapore+s-league,25475825,60,,2,1.0,0.0,7939,t,f,f,,Fazli bin Muhammad Ayob,<b>Fazli bin Muhammad Ayob</b> - 60' <br>Goal,(60'),Shot by Fazli bin Muhammad Ayob,1
+444212,2016,singapore+s-league,25475826,86,,2,0.0,1.0,17736,t,f,f,,Fumiya Kogure,<b>Fumiya Kogure</b> - 86' <br>Goal,(86'),Shot by Fumiya Kogure,1
+444212,2016,singapore+s-league,25475827,90,,1,0.0,1.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 90' <br>Penalty - Scored,(90' PEN),Shot by Stipe  Plazibat,1
+444213,2016,singapore+s-league,25475815,24,,1,1.0,0.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 24' <br>Goal,(24'),Shot by Tatsuro Inui,1
+444213,2016,singapore+s-league,25475816,26,,1,1.0,0.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 26' <br>Goal,(26'),Shot by Tatsuro Inui,1
+444213,2016,singapore+s-league,25475817,37,,1,0.0,1.0,7999,t,f,f,,Nikola Rak,<b>Nikola Rak</b> - 37' <br>Goal,(37'),Shot by Nikola Rak,1
+444213,2016,singapore+s-league,25475819,65,,2,0.0,1.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 65' <br>Goal,(65'),Shot by Jonathan Behe,1
+444213,2016,singapore+s-league,25475820,88,,2,1.0,0.0,8011,t,f,f,,Daichi Ishiyama,<b>Daichi Ishiyama</b> - 88' <br>Goal,(88'),Shot by Daichi Ishiyama,1
+444214,2016,singapore+s-league,25482346,38,,1,1.0,0.0,7998,t,f,f,,Fazrul Nawaz,<b>Fazrul Nawaz</b> - 38' <br>Goal,(38'),Shot by Fazrul Nawaz,1
+444214,2016,singapore+s-league,25482354,44,,1,0.0,1.0,17734,t,f,f,,Azwan bin Muhammad Ali Rahman,<b>Azwan bin Muhammad Ali Rahman</b> - 44' <br>Goal,(44'),Shot by Azwan bin Muhammad Ali Rahman,1
+444214,2016,singapore+s-league,25482347,45,,0,1.0,0.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 45' <br>Goal,(45'),Shot by Jordan Webb,1
+444214,2016,singapore+s-league,25482356,57,,2,0.0,1.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 57' <br>Goal,(57'),Shot by Ramazotti,1
+444214,2016,singapore+s-league,25482358,63,,2,1.0,0.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 63' <br>Goal,(63'),Shot by Billy Mehmet,1
+444214,2016,singapore+s-league,25482359,70,,2,0.0,1.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 70' <br>Goal,(70'),Shot by Ramazotti,1
+444214,2016,singapore+s-league,25482360,80,,2,1.0,0.0,7998,t,f,f,,Jermaine Pennant,<b>Jermaine Pennant</b> - 80' <br>Goal,(80'),Shot by Jermaine Pennant,1
+444215,2016,singapore+s-league,25482372,22,,1,1.0,0.0,8039,t,f,f,,Khairul Amri,<b>Khairul Amri</b> - 22' <br>Goal,(22'),Shot by Khairul Amri,1
+444215,2016,singapore+s-league,25482377,48,,2,1.0,0.0,8039,t,f,f,,Mohammed Firdaus Kasman,<b>Mohammed Firdaus Kasman</b> - 48' <br>Goal,(48'),Shot by Mohammed Firdaus Kasman,1
+444215,2016,singapore+s-league,25482378,52,,2,0.0,1.0,8040,t,f,f,,Khairul Nizam,<b>Khairul Nizam</b> - 52' <br>Goal,(52'),Shot by Khairul Nizam,1
+444215,2016,singapore+s-league,25482379,90,,1,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 90' <br>Goal,(90'),Shot by Ken Ilso Larsen,1
+444216,2016,singapore+s-league,25494338,19,,1,1.0,0.0,7998,t,f,f,,Fazrul Nawaz,<b>Fazrul Nawaz</b> - 19' <br>Goal,(19'),Shot by Fazrul Nawaz,1
+444216,2016,singapore+s-league,25494339,25,,1,1.0,0.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 25' <br>Goal,(25'),Shot by Jordan Webb,1
+444216,2016,singapore+s-league,25494340,33,,1,0.0,1.0,8039,t,f,f,,Fareez Farhan,<b>Fareez Farhan</b> - 33' <br>Goal,(33'),Shot by Fareez Farhan,1
+444216,2016,singapore+s-league,25494341,40,,1,1.0,0.0,7998,t,f,f,,Mustafic Fahrudin,<b>Mustafic Fahrudin</b> - 40' <br>Goal,(40'),Shot by Mustafic Fahrudin,1
+444216,2016,singapore+s-league,25494343,48,,2,1.0,0.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 48' <br>Goal,(48'),Shot by Jordan Webb,1
+444216,2016,singapore+s-league,25494344,78,,2,1.0,0.0,7998,t,f,f,,Jermaine Pennant,<b>Jermaine Pennant</b> - 78' <br>Penalty - Scored,(78' PEN),Shot by Jermaine Pennant,1
+444216,2016,singapore+s-league,25494345,80,,2,1.0,0.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 80' <br>Goal,(80'),Shot by Jordan Webb,1
+444217,2016,singapore+s-league,25494348,45,,0,0.0,1.0,7939,t,f,f,,Zulkiffli Hassim,<b>Zulkiffli Hassim</b> - 45' <br>Goal,(45'),Shot by Zulkiffli Hassim,1
+444217,2016,singapore+s-league,25494350,53,,2,1.0,0.0,8040,t,f,f,,Faris Ramli,<b>Faris Ramli</b> - 53' <br>Goal,(53'),Shot by Faris Ramli,1
+444217,2016,singapore+s-league,25494351,66,,2,0.0,1.0,7939,t,f,f,,Sadin Smajovic,<b>Sadin Smajovic</b> - 66' <br>Goal,(66'),Shot by Sadin Smajovic,1
+444217,2016,singapore+s-league,25494352,75,,2,0.0,1.0,7939,t,f,f,,Jamil Ali,<b>Jamil Ali</b> - 75' <br>Goal,(75'),Shot by Jamil Ali,1
+444218,2016,singapore+s-league,25504665,1,,1,1.0,0.0,7999,t,f,f,,Nikola Rak,<b>Nikola Rak</b> - 1' <br>Goal,(1'),Shot by Nikola Rak,1
+444218,2016,singapore+s-league,25504667,90,,0,1.0,0.0,7999,t,f,f,,Nikola Rak,<b>Nikola Rak</b> - 90' <br>Goal,(90'),Shot by Nikola Rak,1
+444219,2016,singapore+s-league,25504671,39,,1,1.0,0.0,17736,t,f,f,,Jozef Kaplan,<b>Jozef Kaplan</b> - 39' <br>Goal,(39'),Shot by Jozef Kaplan,1
+444219,2016,singapore+s-league,25504672,57,,2,0.0,1.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 57' <br>Goal,(57'),Shot by Atsushi Kawata,1
+444219,2016,singapore+s-league,25504673,63,,2,0.0,1.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 63' <br>Goal,(63'),Shot by Tatsuro Inui,1
+444222,2016,singapore+s-league,25534459,2,,1,1.0,0.0,8011,t,f,f,,Tatsuro Inui,<b>Tatsuro Inui</b> - 2' <br>Goal,(2'),Shot by Tatsuro Inui,1
+444222,2016,singapore+s-league,25534460,45,,0,1.0,0.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 45' <br>Goal,(45'),Shot by Atsushi Kawata,1
+444222,2016,singapore+s-league,25534462,58,,2,1.0,0.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 58' <br>Goal,(58'),Shot by Atsushi Kawata,1
+444222,2016,singapore+s-league,25534467,79,,2,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 79' <br>Penalty - Scored,(79' PEN),Shot by Ken Ilso Larsen,1
+444222,2016,singapore+s-league,25534468,81,,2,0.0,1.0,8040,t,f,f,,Mohammed Kamal,<b>Mohammed Kamal</b> - 81' <br>Goal,(81'),Shot by Mohammed Kamal,1
+444222,2016,singapore+s-league,25534469,85,,2,1.0,0.0,8011,t,f,f,,Kento Nagasaki,<b>Kento Nagasaki</b> - 85' <br>Goal,(85'),Shot by Kento Nagasaki,1
+444222,2016,singapore+s-league,25534470,87,,2,1.0,0.0,8011,t,f,f,,Kento Nagasaki,<b>Kento Nagasaki</b> - 87' <br>Goal,(87'),Shot by Kento Nagasaki,1
+444223,2016,singapore+s-league,25534479,63,,2,0.0,1.0,17736,t,f,f,,Jozef Kaplan,<b>Jozef Kaplan</b> - 63' <br>Goal,(63'),Shot by Jozef Kaplan,1
+444223,2016,singapore+s-league,25534481,85,,2,0.0,1.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 85' <br>Goal,(85'),Shot by Stipe  Plazibat,1
+444223,2016,singapore+s-league,25534491,90,,1,1.0,0.0,7938,t,f,f,,Amy Recha  Pristifana Bin Samion,<b>Amy Recha  Pristifana Bin Samion</b> - 90' <br>Goal,(90'),Shot by Amy Recha  Pristifana Bin Samion,1
+444224,2016,singapore+s-league,25557582,18,,1,0.0,1.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 18' <br>Goal,(18'),Shot by Ramazotti,1
+444224,2016,singapore+s-league,25557583,30,,1,0.0,1.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 30' <br>Goal,(30'),Shot by Ramazotti,1
+444224,2016,singapore+s-league,25557584,50,,2,0.0,1.0,17734,t,f,f,,Goncalves Paulo Sergio,<b>Goncalves Paulo Sergio</b> - 50' <br>Goal,(50'),Shot by Goncalves Paulo Sergio,1
+444224,2016,singapore+s-league,25557586,57,,2,1.0,0.0,7939,t,f,f,,Emir Lotinac,<b>Emir Lotinac</b> - 57' <br>Penalty - Scored,(57' PEN),Shot by Emir Lotinac,1
+444224,2016,singapore+s-league,25557585,79,,2,0.0,1.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 79' <br>Goal,(79'),Shot by Ramazotti,1
+444225,2016,singapore+s-league,25555297,40,,1,1.0,0.0,17736,t,f,f,,Nurhilmi Jasni,<b>Nurhilmi Jasni</b> - 40' <br>Goal,(40'),Shot by Nurhilmi Jasni,1
+444225,2016,singapore+s-league,25555299,61,,2,0.0,1.0,7999,t,f,f,,Hafiz Nor,<b>Hafiz Nor</b> - 61' <br>Goal,(61'),Shot by Hafiz Nor,1
+444225,2016,singapore+s-league,25555300,85,,2,0.0,1.0,7999,t,f,f,,Shaiful Esah,<b>Shaiful Esah</b> - 85' <br>Goal,(85'),Shot by Shaiful Esah,1
+444225,2016,singapore+s-league,25555301,90,,1,0.0,1.0,7999,t,f,f,,Ismail Yunos,<b>Ismail Yunos</b> - 90' <br>Goal,(90'),Shot by Ismail Yunos,1
+444226,2016,singapore+s-league,25557590,80,,2,1.0,0.0,7998,t,f,f,,Fazrul Nawaz,<b>Fazrul Nawaz</b> - 80' <br>Goal,(80'),Shot by Fazrul Nawaz,1
+444227,2016,singapore+s-league,25555291,50,,2,1.0,0.0,8040,t,f,f,,Shahrin Saberin,<b>Shahrin Saberin</b> - 50' <br>Goal,(50'),Shot by Shahrin Saberin,1
+444227,2016,singapore+s-league,25555292,89,,2,0.0,1.0,7938,t,f,f,,Sahil Suhaimi,<b>Sahil Suhaimi</b> - 89' <br>Goal,(89'),Shot by Sahil Suhaimi,1
+444227,2016,singapore+s-league,25555293,90,,0,0.0,1.0,7938,t,f,f,,Gabriel Quak,<b>Gabriel Quak</b> - 90' <br>Goal,(90'),Shot by Gabriel Quak,1
+444228,2016,singapore+s-league,25684771,21,,1,1.0,0.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 21' <br>Goal,(21'),Shot by Jordan Webb,1
+444228,2016,singapore+s-league,25684772,40,,1,1.0,0.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 40' <br>Goal,(40'),Shot by Billy Mehmet,1
+444228,2016,singapore+s-league,25684773,42,,1,0.0,1.0,7938,t,f,f,,Mark Hartmann,<b>Mark Hartmann</b> - 42' <br>Goal,(42'),Shot by Mark Hartmann,1
+444229,2016,singapore+s-league,25684765,38,,1,1.0,0.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 38' <br>Goal,(38'),Shot by Ken Ilso Larsen,1
+444229,2016,singapore+s-league,25684767,64,,2,1.0,0.0,8040,t,f,f,,Ui Young Song,<b>Ui Young Song</b> - 64' <br>Goal,(64'),Shot by Ui Young Song,1
+444229,2016,singapore+s-league,25684768,89,,2,1.0,0.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 89' <br>Goal,(89'),Shot by Ken Ilso Larsen,1
+444234,2016,singapore+s-league,25719641,1,,1,0.0,1.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 1' <br>Goal,(1'),Shot by Billy Mehmet,1
+444234,2016,singapore+s-league,25719642,23,,1,1.0,0.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 23' <br>Goal,(23'),Shot by Jonathan Behe,1
+444234,2016,singapore+s-league,25719643,33,,1,1.0,0.0,7999,t,f,f,,Muhammad Ridhuan,<b>Muhammad Ridhuan</b> - 33' <br>Goal,(33'),Shot by Muhammad Ridhuan,1
+444234,2016,singapore+s-league,25719646,56,,2,0.0,1.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 56' <br>Goal,(56'),Shot by Jordan Webb,1
+444234,2016,singapore+s-league,25719647,75,,2,0.0,1.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 75' <br>Goal,(75'),Shot by Billy Mehmet,1
+444235,2016,singapore+s-league,25719650,6,,1,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 6' <br>Goal,(6'),Shot by Ken Ilso Larsen,1
+444235,2016,singapore+s-league,25719651,7,,1,0.0,1.0,8040,t,f,f,,Ui Young Song,<b>Ui Young Song</b> - 7' <br>Goal,(7'),Shot by Ui Young Song,1
+444235,2016,singapore+s-league,25719652,39,,1,1.0,0.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 39' <br>Penalty - Scored,(39' PEN),Shot by Stipe  Plazibat,1
+444235,2016,singapore+s-league,25719653,44,,1,1.0,0.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 44' <br>Goal,(44'),Shot by Stipe  Plazibat,1
+444235,2016,singapore+s-league,25719654,52,,2,1.0,0.0,17736,t,f,f,,Iqbal Hamid Hussain,<b>Iqbal Hamid Hussain</b> - 52' <br>Goal,(52'),Shot by Iqbal Hamid Hussain,1
+444235,2016,singapore+s-league,25719655,56,,2,1.0,0.0,17736,t,f,f,,Fumiya Kogure,<b>Fumiya Kogure</b> - 56' <br>Goal,(56'),Shot by Fumiya Kogure,1
+444236,2016,singapore+s-league,25756190,50,,2,0.0,1.0,7938,t,f,f,,Gabriel Quak,<b>Gabriel Quak</b> - 50' <br>Goal,(50'),Shot by Gabriel Quak,1
+444236,2016,singapore+s-league,25756191,82,,2,0.0,1.0,7938,t,f,f,,Stanely Ng,<b>Stanely Ng</b> - 82' <br>Goal,(82'),Shot by Stanely Ng,1
+444238,2016,singapore+s-league,25758358,13,,1,0.0,1.0,8011,t,f,f,,Rui Kumada,<b>Rui Kumada</b> - 13' <br>Goal,(13'),Shot by Rui Kumada,1
+444239,2016,singapore+s-league,25758362,26,,1,1.0,0.0,17734,t,f,f,,Azwan bin Muhammad Ali Rahman,<b>Azwan bin Muhammad Ali Rahman</b> - 26' <br>Goal,(26'),Shot by Azwan bin Muhammad Ali Rahman,1
+444239,2016,singapore+s-league,25758363,63,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 63' <br>Goal,(63'),Shot by Ramazotti,1
+444239,2016,singapore+s-league,25758364,90,,0,1.0,0.0,17734,t,f,f,,Paulo Sergio,<b>Paulo Sergio</b> - 90' <br>Goal,(90'),Shot by Paulo Sergio,1
+444243,2016,singapore+s-league,25809284,22,,1,1.0,0.0,7999,t,f,f,,Nikola Rak,<b>Nikola Rak</b> - 22' <br>Goal,(22'),Shot by Nikola Rak,1
+444243,2016,singapore+s-league,25809285,25,,1,1.0,0.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 25' <br>Goal,(25'),Shot by Jonathan Behe,1
+444243,2016,singapore+s-league,25809286,30,,1,1.0,0.0,7999,t,f,f,,Syakir Sulaiman,<b>Syakir Sulaiman</b> - 30' <br>Goal,(30'),Shot by Syakir Sulaiman,1
+444243,2016,singapore+s-league,25809288,64,,2,1.0,0.0,7999,t,f,f,,Muhammad Ridhuan,<b>Muhammad Ridhuan</b> - 64' <br>Goal,(64'),Shot by Muhammad Ridhuan,1
+444243,2016,singapore+s-league,25809289,65,,2,0.0,1.0,8039,t,f,f,,Khairul Amri,<b>Khairul Amri</b> - 65' <br>Goal,(65'),Shot by Khairul Amri,1
+444243,2016,singapore+s-league,25809290,75,,2,0.0,1.0,8039,t,f,f,,Muhamad Rusyaidi bin Salime,<b>Muhamad Rusyaidi bin Salime</b> - 75' <br>Goal,(75'),Shot by Muhamad Rusyaidi bin Salime,1
+444243,2016,singapore+s-league,25809293,88,,2,1.0,0.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 88' <br>Goal,(88'),Shot by Jonathan Behe,1
+444244,2016,singapore+s-league,26021202,76,,2,1.0,0.0,8011,t,f,f,,Atsushi Shirota,<b>Atsushi Shirota</b> - 76' <br>Goal,(76'),Shot by Atsushi Shirota,1
+444245,2016,singapore+s-league,26021205,45,,0,0.0,1.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 45' <br>Penalty - Scored,(45' PEN),Shot by Jonathan Behe,1
+444245,2016,singapore+s-league,26021207,87,,2,1.0,0.0,7939,t,f,f,,Syafiq Zainal,<b>Syafiq Zainal</b> - 87' <br>Goal,(87'),Shot by Syafiq Zainal,1
+444246,2016,singapore+s-league,26024478,45,,0,0.0,1.0,17736,t,f,f,,Iqbal Hamid Hussain,<b>Iqbal Hamid Hussain</b> - 45' <br>Goal,(45'),Shot by Iqbal Hamid Hussain,1
+444246,2016,singapore+s-league,26024479,70,,2,0.0,1.0,17736,t,f,f,,Nurhilmi Jasni,<b>Nurhilmi Jasni</b> - 70' <br>Goal,(70'),Shot by Nurhilmi Jasni,1
+444247,2016,singapore+s-league,26024494,37,,1,1.0,0.0,17734,t,f,f,,Paulo Sergio,<b>Paulo Sergio</b> - 37' <br>Goal,(37'),Shot by Paulo Sergio,1
+444247,2016,singapore+s-league,26024495,71,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 71' <br>Penalty - Scored,(71' PEN),Shot by Ramazotti,1
+444247,2016,singapore+s-league,26024496,76,,2,1.0,0.0,17734,t,f,f,,Brian McLean,<b>Brian McLean</b> - 76' <br>Goal,(76'),Shot by Brian McLean,1
+444247,2016,singapore+s-league,26024497,83,,2,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 83' <br>Penalty - Scored,(83' PEN),Shot by Ken Ilso Larsen,1
+444250,2016,singapore+s-league,26104073,9,,1,1.0,0.0,7999,t,f,f,,Muhammad Ridhuan,<b>Muhammad Ridhuan</b> - 9' <br>Goal,(9'),Shot by Muhammad Ridhuan,1
+444250,2016,singapore+s-league,26104074,86,,2,1.0,0.0,7999,t,f,f,,Jonathan Behe,<b>Jonathan Behe</b> - 86' <br>Goal,(86'),Shot by Jonathan Behe,1
+444252,2016,singapore+s-league,26193454,4,,1,1.0,0.0,8011,t,f,f,,Atsushi Kawata,<b>Atsushi Kawata</b> - 4' <br>Goal,(4'),Shot by Atsushi Kawata,1
+444252,2016,singapore+s-league,26193455,8,,1,1.0,0.0,8011,t,f,f,,Masaya Jitozono,<b>Masaya Jitozono</b> - 8' <br>Goal,(8'),Shot by Masaya Jitozono,1
+444252,2016,singapore+s-league,26193456,32,,1,1.0,0.0,8011,t,f,f,,Rui Kumada,<b>Rui Kumada</b> - 32' <br>Goal,(32'),Shot by Rui Kumada,1
+444253,2016,singapore+s-league,26193448,52,,2,0.0,1.0,7999,t,f,f,,Fazli Jaffar,<b>Fazli Jaffar</b> - 52' <br>Goal,(52'),Shot by Fazli Jaffar,1
+444253,2016,singapore+s-league,26193447,73,,2,1.0,0.0,7938,t,f,f,,Amy Recha  Pristifana Bin Samion,<b>Amy Recha  Pristifana Bin Samion</b> - 73' <br>Goal,(73'),Shot by Amy Recha  Pristifana Bin Samion,1
+444253,2016,singapore+s-league,26193445,77,,2,1.0,0.0,7938,t,f,f,,Sahil Suhaimi,<b>Sahil Suhaimi</b> - 77' <br>Goal,(77'),Shot by Sahil Suhaimi,1
+444254,2016,singapore+s-league,26211855,12,,1,0.0,1.0,8040,t,f,f,,Ui Young Song,<b>Ui Young Song</b> - 12' <br>Goal,(12'),Shot by Ui Young Song,1
+444254,2016,singapore+s-league,26211881,22,,1,0.0,1.0,8040,t,f,f,,Shamil Sharif,<b>Shamil Sharif</b> - 22' <br>Goal,(22'),Shot by Shamil Sharif,1
+444254,2016,singapore+s-league,26211900,29,,1,0.0,1.0,8040,t,f,f,,Juma'at Jantan,<b>Juma'at Jantan</b> - 29' <br>Goal,(29'),Shot by Juma'at Jantan,1
+444254,2016,singapore+s-league,26211934,44,,1,0.0,1.0,8040,t,f,f,,Irfan Ahmad,<b>Irfan Ahmad</b> - 44' <br>Goal,(44'),Shot by Irfan Ahmad,1
+444254,2016,singapore+s-league,26211991,81,,2,0.0,1.0,8040,t,f,f,,Ang Zhiwei,<b>Ang Zhiwei</b> - 81' <br>Goal,(81'),Shot by Ang Zhiwei,1
+444255,2016,singapore+s-league,26212134,54,,2,0.0,1.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 54' <br>Goal,(54'),Shot by Billy Mehmet,1
+444255,2016,singapore+s-league,26212116,57,,2,1.0,0.0,8039,t,f,f,,Ryan Syaffiq,<b>Ryan Syaffiq</b> - 57' <br>Goal,(57'),Shot by Ryan Syaffiq,1
+444255,2016,singapore+s-league,26212162,61,,2,0.0,1.0,7998,t,f,f,,Yasir Hanapi,<b>Yasir Hanapi</b> - 61' <br>Goal,(61'),Shot by Yasir Hanapi,1
+444255,2016,singapore+s-league,26212163,76,,2,0.0,1.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 76' <br>Goal,(76'),Shot by Jordan Webb,1
+444258,2016,singapore+s-league,26291990,38,,1,1.0,0.0,7998,t,f,f,,Shahir Hamzah,<b>Shahir Hamzah</b> - 38' <br>Goal,(38'),Shot by Shahir Hamzah,1
+444258,2016,singapore+s-league,26291998,90,,1,1.0,0.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 90' <br>Goal,(90'),Shot by Billy Mehmet,1
 445662,2016,singapore+s-league,24678560,4,,1,0.0,1.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 4' <br>Goal,(4'),Shot by Billy Mehmet,1
 445662,2016,singapore+s-league,24678561,15,,1,0.0,1.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 15' <br>Goal,(15'),Shot by Jordan Webb,1
 445662,2016,singapore+s-league,24678554,59,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 59' <br>Goal,(59'),Shot by Ramazotti,1
 446764,2016,singapore+s-league,24837208,35,,1,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 35' <br>Penalty - Scored,(35' PEN),Shot by Ken Ilso Larsen,1
+448623,2016,singapore+s-league,25324478,45,,0,1.0,0.0,8011,t,f,f,,Naofumi Tanaka,<b>Naofumi Tanaka</b> - 45' <br>Goal,(45'),Shot by Naofumi Tanaka,1
+448623,2016,singapore+s-league,25324480,90,,1,1.0,0.0,8011,t,f,f,,Masaya Jitozono,<b>Masaya Jitozono</b> - 90' <br>Goal,(90'),Shot by Masaya Jitozono,1
+450623,2016,singapore+s-league,25542595,32,,1,0.0,1.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 32' <br>Goal,(32'),Shot by Ramazotti,1
+450623,2016,singapore+s-league,25542596,67,,2,1.0,0.0,8039,t,f,f,,Muhammad Faiz,<b>Muhammad Faiz</b> - 67' <br>Goal,(67'),Shot by Muhammad Faiz,1
+463814,2016,singapore+s-league,25751388,22,,1,0.0,1.0,17736,t,f,f,,Stipe  Plazibat,<b>Stipe  Plazibat</b> - 22' <br>Goal,(22'),Shot by Stipe  Plazibat,1
+463814,2016,singapore+s-league,25751389,45, +2',1,1.0,0.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 45'  +2'<br>Goal,(45' +2'),Shot by Jordan Webb,1
+463814,2016,singapore+s-league,25751391,90, +2',2,0.0,1.0,17736,t,f,f,,Fumiya Kogure,<b>Fumiya Kogure</b> - 90'  +2'<br>Goal,(90' +2'),Shot by Fumiya Kogure,1
+466684,2016,singapore+s-league,25882683,74,,2,1.0,0.0,8040,t,f,f,,Shamil Sharif,<b>Shamil Sharif</b> - 74' <br>Goal,(74'),Shot by Shamil Sharif,1
+467090,2016,singapore+s-league,26067919,4,,1,1.0,0.0,17734,t,f,f,,Brian McLean,<b>Brian McLean</b> - 4' <br>Goal,(4'),Shot by Brian McLean,1
+467090,2016,singapore+s-league,26067921,8,,1,1.0,0.0,17734,t,f,f,,Azwan Bin Muhamad Saleh,<b>Azwan Bin Muhamad Saleh</b> - 8' <br>Goal,(8'),Shot by Azwan Bin Muhamad Saleh,1
+467090,2016,singapore+s-league,26067924,9,,1,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 9' <br>Goal,(9'),Shot by Ramazotti,1
+467090,2016,singapore+s-league,26067925,29,,1,1.0,0.0,17734,t,f,f,,Muhammad Kasmi,<b>Muhammad Kasmi</b> - 29' <br>Goal,(29'),Shot by Muhammad Kasmi,1
+467090,2016,singapore+s-league,26067926,46,,2,0.0,1.0,8039,t,f,f,,Mohamad Bin Faruk,<b>Mohamad Bin Faruk</b> - 46' <br>Goal,(46'),Shot by Mohamad Bin Faruk,1
+467090,2016,singapore+s-league,26067927,46,,2,0.0,1.0,8039,t,f,f,,Khairul Amri,<b>Khairul Amri</b> - 46' <br>Goal,(46'),Shot by Khairul Amri,1
+467090,2016,singapore+s-league,26067928,60,,2,0.0,1.0,8039,t,f,f,,Khairul Amri,<b>Khairul Amri</b> - 60' <br>Goal,(60'),Shot by Khairul Amri,1
+467090,2016,singapore+s-league,26067929,90,,2,1.0,0.0,17734,t,f,f,,Ramazotti,<b>Ramazotti</b> - 90' <br>Penalty - Scored,(90' PEN),Shot by Ramazotti,1
+467091,2016,singapore+s-league,26126918,4,,1,0.0,1.0,17734,t,f,f,,Azwan bin Muhammad Ali Rahman,<b>Azwan bin Muhammad Ali Rahman</b> - 4' <br>Goal,(4'),Shot by Azwan bin Muhammad Ali Rahman,1
+467259,2016,singapore+s-league,26126902,8,,1,1.0,0.0,17736,t,f,f,,Iqbal Hamid Hussain,<b>Iqbal Hamid Hussain</b> - 8' <br>Goal,(8'),Shot by Iqbal Hamid Hussain,1
+467259,2016,singapore+s-league,26126914,69,,2,0.0,1.0,7939,t,f,f,,Syafiq Zainal,<b>Syafiq Zainal</b> - 69' <br>Goal,(69'),Shot by Syafiq Zainal,1
+467696,2016,singapore+s-league,26316962,6,,1,1.0,0.0,7938,t,f,f,,Mark Hartmann,<b>Mark Hartmann</b> - 6' <br>Goal,(6'),Shot by Mark Hartmann,1
+467696,2016,singapore+s-league,26316963,50,,2,0.0,1.0,8040,t,f,f,,Ken Ilso Larsen,<b>Ken Ilso Larsen</b> - 50' <br>Goal,(50'),Shot by Ken Ilso Larsen,1
+467696,2016,singapore+s-league,26316969,68,,2,1.0,0.0,7938,t,f,f,,Shahfiq Ghani,<b>Shahfiq Ghani</b> - 68' <br>Goal,(68'),Shot by Shahfiq Ghani,1
+467696,2016,singapore+s-league,26316970,83,,2,1.0,0.0,7938,t,f,f,,Gabriel Quak,<b>Gabriel Quak</b> - 83' <br>Goal,(83'),Shot by Gabriel Quak,1
+467696,2016,singapore+s-league,26316971,90,,0,1.0,0.0,7938,t,f,f,,Dan Bennett,<b>Dan Bennett</b> - 90' <br>Goal,(90'),Shot by Dan Bennett,1
+467786,2016,singapore+s-league,26324526,67,,2,1.0,0.0,7939,t,f,f,,Niko Tokic,<b>Niko Tokic</b> - 67' <br>Goal,(67'),Shot by Niko Tokic,1
+467786,2016,singapore+s-league,26324530,90, +5',2,1.0,0.0,7939,t,f,f,,Miroslav Kristic,<b>Miroslav Kristic</b> - 90'  +5'<br>Goal,(90' +5'),Shot by Miroslav Kristic,1
+467787,2016,singapore+s-league,26324518,9,,1,0.0,1.0,7998,t,f,f,,Billy Mehmet,<b>Billy Mehmet</b> - 9' <br>Goal,(9'),Shot by Billy Mehmet,1
+467787,2016,singapore+s-league,26324519,38,,1,0.0,1.0,7998,t,f,f,,Jordan Webb,<b>Jordan Webb</b> - 38' <br>Goal,(38'),Shot by Jordan Webb,1
+467787,2016,singapore+s-league,26324520,42,,1,0.0,1.0,7998,t,f,f,,Diego Silvas,<b>Diego Silvas</b> - 42' <br>Goal,(42'),Shot by Diego Silvas,1
+467787,2016,singapore+s-league,26324521,64,,2,0.0,1.0,7998,t,f,f,,Shahdan Sulaiman,<b>Shahdan Sulaiman</b> - 64' <br>Penalty - Scored,(64' PEN),Shot by Shahdan Sulaiman,1
+467787,2016,singapore+s-league,26324522,73,,2,0.0,1.0,7998,t,f,f,,Diego Silvas,<b>Diego Silvas</b> - 73' <br>Goal,(73'),Shot by Diego Silvas,1

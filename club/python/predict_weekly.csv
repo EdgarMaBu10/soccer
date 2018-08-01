@@ -1,120 +1,246 @@
-game_date,team,site,opponent,win,lose,draw
-2016-04-01,AS Monaco,home,Bordeaux,0.490,0.256,0.254
-2016-04-01,Bayer Leverkusen,home,VfL Wolfsburg,0.448,0.282,0.270
-2016-04-01,Lens,home,AJ Auxerre,0.410,0.297,0.294
-2016-04-01,Queens Park Rangers,home,Middlesbrough,0.435,0.286,0.279
-2016-04-01,Rayo Vallecano,home,Getafe,0.488,0.231,0.281
-2016-04-01,TSV Eintracht Braunschweig,home,SC Paderborn 07,0.439,0.273,0.288
-2016-04-01,Valenciennes,home,Evian Thonon Gaillard,0.393,0.314,0.293
-2016-04-01,Western Sydney Wanderers,home,Central Coast Mariners,0.493,0.239,0.269
-2016-04-02,AFC Bournemouth,home,Manchester City,0.344,0.395,0.261
-2016-04-02,Arsenal,home,Watford,0.534,0.207,0.259
-2016-04-02,Aston Villa,home,Chelsea,0.315,0.387,0.298
-2016-04-02,Atletico Madrid,home,Real Betis,0.509,0.218,0.273
-2016-04-02,AZ Alkmaar,home,PSV Eindhoven,0.418,0.335,0.246
-2016-04-02,Barcelona,home,Real Madrid,0.535,0.271,0.194
-2016-04-02,Bayern Munich,home,Eintracht Frankfurt,0.647,0.150,0.204
-2016-04-02,Blackburn Rovers,home,Preston North End,0.430,0.266,0.304
-2016-04-02,Bolton Wanderers,home,Reading,0.389,0.315,0.296
-2016-04-02,Borussia Dortmund,home,Werder Bremen,0.598,0.191,0.211
-2016-04-02,Brighton & Hove Albion,home,Burnley,0.417,0.318,0.265
-2016-04-02,Cardiff City,home,Derby County,0.440,0.287,0.273
-2016-04-02,Celta Vigo,home,Deportivo La Coruña,0.473,0.258,0.268
-2016-04-02,Charlton Athletic,home,Birmingham City,0.414,0.285,0.300
-2016-04-02,Colo Colo,home,Huachipato,0.480,0.242,0.278
-2016-04-02,Danubio F.C.,home,Racing (U),0.435,0.286,0.279
-2016-04-02,De Graafschap,home,Cambuur Leeuwarden,0.431,0.261,0.308
-2016-04-02,Deportes Iquique,home,Universidad de Concepción,0.412,0.308,0.281
-2016-04-02,Dijon FCO,home,AS Nancy Lorraine,0.461,0.279,0.260
-2016-04-02,FC Ingolstadt 04,home,Schalke 04,0.366,0.329,0.306
-2016-04-02,Feyenoord Rotterdam,home,Excelsior,0.552,0.194,0.254
-2016-04-02,Fulham,home,Milton Keynes Dons,0.545,0.197,0.258
-2016-04-02,GFC Ajaccio,home,St Etienne,0.406,0.307,0.287
-2016-04-02,Guingamp,home,Montpellier,0.441,0.278,0.280
-2016-04-02,Hannover 96,home,Hamburg SV,0.381,0.306,0.314
-2016-04-02,Huddersfield Town,home,Sheffield Wednesday,0.443,0.295,0.263
-2016-04-02,Hull City,home,Bristol City,0.482,0.244,0.274
-2016-04-02,Juventus,home,Empoli,0.561,0.200,0.239
-2016-04-02,Kuban Krasnodar,home,FK Amkar Perm,0.506,0.223,0.271
-2016-04-02,Las Palmas,home,Valencia,0.427,0.285,0.288
-2016-04-02,Liverpool,home,Tottenham Hotspur,0.415,0.322,0.263
-2016-04-02,Liverpool,home,Fénix,0.392,0.311,0.297
-2016-04-02,Mainz,home,FC Augsburg,0.447,0.269,0.284
-2016-04-02,Nacional,home,El Tanque Sisley,0.517,0.229,0.254
-2016-04-02,Norwich City,home,Newcastle United,0.446,0.254,0.300
-2016-04-02,Nottingham Forest,home,Brentford,0.367,0.335,0.298
-2016-04-02,Paris Saint-Germain,home,Nice,0.624,0.182,0.194
-2016-04-02,Peñarol,home,River Plate,0.482,0.266,0.252
-2016-04-02,Rapid Vienna,home,FC Salzburg,0.520,0.243,0.237
-2016-04-02,Rentistas,home,Sud América,0.427,0.281,0.292
-2016-04-02,Rostov,home,Spartak Moscow,0.390,0.336,0.274
-2016-04-02,Rotherham United,home,Leeds United,0.453,0.257,0.289
-2016-04-02,SC Heracles Almelo,home,FC Utrecht,0.411,0.315,0.274
-2016-04-02,Stade Rennes,home,Stade de Reims,0.512,0.231,0.257
-2016-04-02,Stoke City,home,Swansea City,0.432,0.265,0.304
-2016-04-02,Sunderland,home,West Bromwich Albion,0.474,0.237,0.289
-2016-04-02,SV Darmstadt 98,home,VfB Stuttgart,0.371,0.340,0.288
-2016-04-02,Sydney FC,home,Adelaide United,0.408,0.309,0.283
-2016-04-02,Terek Grozny,home,Anzhi Makhachkala,0.481,0.245,0.273
-2016-04-02,Toulouse,home,Caen,0.460,0.259,0.281
-2016-04-02,Troyes,home,Angers,0.378,0.313,0.309
-2016-04-02,Unión La Calera,home,Palestino,0.382,0.322,0.296
-2016-04-02,Wanderers,home,Cerro,0.473,0.262,0.266
-2016-04-02,Wellington Phoenix FC,home,Melbourne Victory,0.443,0.280,0.276
-2016-04-02,West Ham United,home,Crystal Palace,0.508,0.232,0.261
-2016-04-02,Willem II Tilburg,home,Twente Enschede,0.381,0.319,0.301
-2016-04-02,Wolverhampton Wanderers,home,Ipswich Town,0.434,0.283,0.284
-2016-04-03,ADO Den Haag,home,FC Groningen,0.480,0.237,0.283
-2016-04-03,Ajax Amsterdam,home,PEC Zwolle,0.558,0.214,0.229
-2016-04-03,Anderlecht,home,Racing Genk,0.510,0.225,0.265
-2016-04-03,Antofagasta,home,O'Higgins,0.388,0.323,0.289
-2016-04-03,Atalanta,home,AC Milan,0.369,0.335,0.296
-2016-04-03,Athletic Bilbao,home,Granada,0.543,0.203,0.254
-2016-04-03,Bastia,home,Marseille,0.370,0.338,0.291
-2016-04-03,Belenenses,home,Sporting CP,0.356,0.382,0.262
-2016-04-03,Benfica,home,Braga,0.561,0.226,0.214
-2016-04-03,Bolívar,home,Nacional Potosí,0.536,0.224,0.240
-2016-04-03,Borussia Monchengladbach,home,Hertha Berlin,0.543,0.217,0.240
-2016-04-03,Brisbane Roar,home,Newcastle Jets,0.551,0.194,0.255
-2016-04-03,Chievo Verona,home,Palermo,0.459,0.250,0.291
-2016-04-03,Eibar,home,Villarreal,0.485,0.243,0.272
-2016-04-03,Estoril,home,Paços de Ferreira,0.427,0.282,0.291
-2016-04-03,Fiorentina,home,Sampdoria,0.509,0.240,0.252
-2016-04-03,Genoa,home,Frosinone,0.449,0.257,0.294
-2016-04-03,Internazionale,home,Torino,0.451,0.281,0.268
-2016-04-03,Lazio,home,AS Roma,0.381,0.360,0.259
-2016-04-03,Leicester City,home,Southampton,0.506,0.244,0.251
-2016-04-03,Lokomotiv Moscow,home,FK Rubin Kazan,0.509,0.235,0.257
-2016-04-03,Lorient,home,Lyon,0.462,0.281,0.257
-2016-04-03,Malaga,home,Espanyol,0.421,0.274,0.305
-2016-04-03,Manchester United,home,Everton,0.407,0.331,0.262
-2016-04-03,Maritimo,home,CD Nacional de Madeira,0.428,0.292,0.280
-2016-04-03,Nantes,home,Lille,0.447,0.258,0.294
-2016-04-03,NEC Nijmegen,home,Vitesse Arnhem,0.376,0.331,0.293
-2016-04-03,Oriente Petrolero,home,Blooming,0.434,0.281,0.285
-2016-04-03,Perth Glory,home,Melbourne City FC,0.409,0.348,0.243
-2016-04-03,Roda JC Kerkrade,home,Heerenveen,0.385,0.308,0.307
-2016-04-03,San José,home,The Strongest,0.418,0.307,0.275
-2016-04-03,Santiago Wanderers,home,Universidad de Chile,0.440,0.295,0.265
-2016-04-03,Sevilla FC,home,Real Sociedad,0.515,0.229,0.256
-2016-04-03,TSG Hoffenheim,home,FC Cologne,0.443,0.257,0.300
-2016-04-03,Udinese,home,Napoli,0.302,0.440,0.258
-2016-04-03,Universidad Católica,home,Cobresal,0.569,0.199,0.232
-2016-04-03,Zenit St Petersburg,home,CSKA Moscow,0.563,0.207,0.230
-2016-04-04,Bologna,home,Hellas Verona,0.443,0.256,0.301
-2016-04-04,Dinamo Moscow,home,Krasnodar,0.378,0.344,0.278
-2016-04-04,Levante,home,Sporting Gijon,0.403,0.291,0.306
-2016-04-05,Barcelona,home,Atletico Madrid,0.673,0.148,0.178
-2016-04-05,Bayern Munich,home,Benfica,0.500,0.286,0.214
-2016-04-05,Birmingham City,home,Brighton & Hove Albion,0.402,0.311,0.287
-2016-04-05,Brentford,home,Bolton Wanderers,0.494,0.230,0.276
-2016-04-05,Bristol City,home,Rotherham United,0.423,0.285,0.292
-2016-04-05,Burnley,home,Cardiff City,0.506,0.242,0.252
-2016-04-05,Derby County,home,Hull City,0.453,0.278,0.269
-2016-04-05,Ipswich Town,home,Charlton Athletic,0.470,0.245,0.285
-2016-04-05,Leeds United,home,Queens Park Rangers,0.405,0.301,0.294
-2016-04-05,Middlesbrough,home,Huddersfield Town,0.430,0.297,0.273
-2016-04-05,Milton Keynes Dons,home,Wolverhampton Wanderers,0.383,0.313,0.305
-2016-04-05,Preston North End,home,Fulham,0.354,0.360,0.286
-2016-04-05,Reading,home,Nottingham Forest,0.490,0.228,0.283
-2016-04-05,Sheffield Wednesday,home,Blackburn Rovers,0.524,0.214,0.261
+game_date,team,e_team,site,opponent,e_opponent,win,lose,draw
+2018-04-25,Bayern Munich,2.0,home,Real Madrid,1.6,0.473,0.311,0.217
+2018-04-25,Caen,1.0,home,Toulouse,0.9,0.379,0.308,0.312
+2018-04-25,Maritzburg Utd,1.3,home,Mamelodi Sundowns,1.0,0.424,0.296,0.280
+2018-04-25,Marquense,1.1,home,Antigua,1.4,0.286,0.450,0.264
+2018-04-25,Orlando Pirates,1.5,home,Bidvest Wits,0.8,0.526,0.206,0.268
+2018-04-25,Platinum Stars,0.9,home,Amazulu,1.0,0.328,0.357,0.315
+2018-04-25,Polokwane City FC,1.1,home,Cape Town City FC,0.9,0.391,0.306,0.303
+2018-04-25,SuperSport United,1.2,home,Free State Stars,0.9,0.431,0.275,0.294
+2018-04-25,Yupanqui,1.2,home,Claypole,1.1,0.385,0.333,0.282
+2018-04-26,Arsenal,1.2,home,Atletico Madrid,1.3,0.347,0.382,0.271
+2018-04-26,Marseille,1.8,home,FC Salzburg,1.0,0.574,0.197,0.230
+2018-04-27,Aberdeen,1.3,home,Heart of Midlothian,0.9,0.474,0.248,0.278
+2018-04-27,Aberystwyth,1.6,home,Newtown,1.4,0.427,0.335,0.238
+2018-04-27,AC Horsens,1.4,home,FC Copenhagen,1.5,0.341,0.412,0.247
+2018-04-27,Arminia Bielefeld,1.9,home,Kaiserslautern,1.1,0.557,0.219,0.225
+2018-04-27,AS Nancy Lorraine,1.4,home,Tours,0.9,0.486,0.243,0.271
+2018-04-27,Barry Town,1.8,home,Carmarthen,0.9,0.580,0.189,0.232
+2018-04-27,Cefn Druids,1.2,home,Connah's Quay,1.3,0.350,0.382,0.267
+2018-04-27,Chateauroux,1.6,home,AJ Auxerre,1.1,0.481,0.267,0.252
+2018-04-27,El Porvenir,0.9,home,Excursionistas,0.9,0.340,0.336,0.324
+2018-04-27,Fulham,2.2,home,Sunderland,0.8,0.694,0.124,0.182
+2018-04-27,Goztepe,1.9,home,Karabükspor,1.0,0.584,0.191,0.224
+2018-04-27,Guimaraes,1.3,home,Moreirense,1.1,0.431,0.295,0.274
+2018-04-27,Le Havre AC,1.4,home,AC Ajaccio,1.1,0.436,0.301,0.264
+2018-04-27,Levante,1.4,home,Sevilla FC,1.2,0.415,0.324,0.261
+2018-04-27,Montpellier,1.3,home,St Etienne,0.8,0.468,0.241,0.292
+2018-04-27,Newcastle Jets,1.8,home,Melbourne City FC,1.2,0.518,0.253,0.230
+2018-04-27,Racing Genk,1.3,home,Club Brugge,1.5,0.350,0.398,0.252
+2018-04-27,Sochaux,1.5,home,Lorient,1.4,0.412,0.341,0.247
+2018-04-27,Stade de Reims,2.1,home,Niort,0.8,0.676,0.129,0.195
+2018-04-27,TSG Hoffenheim,1.9,home,Hannover 96,1.2,0.542,0.232,0.225
+2018-04-27,US Quevilly,1.4,home,Valenciennes,1.2,0.406,0.332,0.262
+2018-04-27,VfL Bochum,1.4,home,FC Erzgebirge Aue,0.9,0.485,0.243,0.271
+2018-04-28,Accrington Stanley,1.5,home,Lincoln City,1.1,0.469,0.273,0.258
+2018-04-28,Airdrieonians,1.7,home,Forfar Athletic,1.1,0.518,0.241,0.241
+2018-04-28,Almere City,2.0,home,FC Volendam,1.5,0.492,0.293,0.215
+2018-04-28,Almeria,1.3,home,Barcelona B,1.0,0.429,0.294,0.278
+2018-04-28,Almirante Brown,1.1,home,San Carlos,0.9,0.389,0.302,0.309
+2018-04-28,Antalyaspor,1.3,home,Trabzonspor,1.4,0.339,0.406,0.255
+2018-04-28,AS Monaco,2.0,home,SC Amiens,0.9,0.638,0.158,0.204
+2018-04-28,AS Roma,2.0,home,Chievo Verona,0.8,0.667,0.131,0.202
+2018-04-28,Aston Villa,1.5,home,Derby County,1.0,0.488,0.255,0.258
+2018-04-28,Atlanta,1.2,home,San Telmo,0.7,0.487,0.214,0.299
+2018-04-28,Austria Vienna,1.7,home,SV Mattersburg,1.4,0.439,0.323,0.238
+2018-04-28,Ayr United,3.4,home,Albion Rovers,1.2,0.786,0.096,0.118
+2018-04-28,Ballymena,1.3,home,Crusaders,2.0,0.241,0.542,0.217
+2018-04-28,Barnsley,1.2,home,Brentford,1.4,0.336,0.402,0.262
+2018-04-28,Barracas Central,1.8,home,Sacachispas,0.8,0.594,0.176,0.230
+2018-04-28,Barrow,1.7,home,Chester FC,0.9,0.562,0.198,0.241
+2018-04-28,Bayer Leverkusen,1.8,home,VfB Stuttgart,1.1,0.538,0.228,0.234
+2018-04-28,Bayern Munich,2.4,home,Eintracht Frankfurt,0.9,0.696,0.129,0.175
+2018-04-28,Bidvest Wits,1.1,home,Amazulu,1.0,0.390,0.316,0.294
+2018-04-28,Blackpool,1.1,home,Shrewsbury Town,1.1,0.368,0.338,0.294
+2018-04-28,Bordeaux,1.7,home,Dijon FCO,1.1,0.510,0.251,0.239
+2018-04-28,Boreham Wood,1.9,home,Guiseley,0.8,0.642,0.146,0.212
+2018-04-28,Bradford City,1.5,home,Southend United,1.2,0.456,0.291,0.253
+2018-04-28,Brechin City,1.0,home,Queen of the South,1.9,0.186,0.597,0.217
+2018-04-28,Bristol Rovers,1.6,home,Gillingham,1.1,0.490,0.262,0.248
+2018-04-28,Burnley,1.4,home,Brighton & Hove Albion,0.7,0.529,0.197,0.274
+2018-04-28,Burton Albion,1.3,home,Bolton Wanderers,1.1,0.430,0.298,0.272
+2018-04-28,Bury,1.1,home,Portsmouth,1.3,0.315,0.409,0.275
+2018-04-28,Cape Town City FC,1.0,home,Orlando Pirates,0.9,0.377,0.309,0.315
+2018-04-28,Charlton Athletic,1.2,home,Blackburn Rovers,1.3,0.339,0.391,0.270
+2018-04-28,Cheltenham Town,1.4,home,Coventry City,1.3,0.403,0.342,0.255
+2018-04-28,Chesterfield,1.4,home,Wycombe Wanderers,1.7,0.314,0.448,0.238
+2018-04-28,Clermont Foot,1.3,home,Nimes,1.1,0.398,0.325,0.277
+2018-04-28,Clyde,1.8,home,Berwick Rangers,0.9,0.589,0.186,0.225
+2018-04-28,Colchester United,1.5,home,Swindon Town,1.1,0.461,0.285,0.254
+2018-04-28,Colegiales,0.9,home,Platense,1.1,0.295,0.401,0.304
+2018-04-28,Cowdenbeath,1.0,home,Annan Athletic,1.2,0.313,0.393,0.294
+2018-04-28,Crawley Town,1.7,home,Crewe Alexandra,1.3,0.477,0.285,0.238
+2018-04-28,Crystal Palace,1.3,home,Leicester City,1.2,0.388,0.343,0.269
+2018-04-28,Dordrecht '90,1.4,home,NEC Nijmegen,1.9,0.288,0.490,0.221
+2018-04-28,Dundee United,1.3,home,Livingston,1.2,0.391,0.341,0.269
+2018-04-28,Dunfermline Athletic,2.0,home,Dumbarton,0.7,0.674,0.126,0.199
+2018-04-28,Dynamo Dresden,1.5,home,Fortuna Düsseldorf,1.4,0.381,0.370,0.249
+2018-04-28,East Fife,1.7,home,Stranraer,1.4,0.455,0.311,0.234
+2018-04-28,Espanyol,1.6,home,Las Palmas,0.7,0.572,0.175,0.253
+2018-04-28,Eupen,1.7,home,KSC Lokeren,1.3,0.464,0.297,0.239
+2018-04-28,Falkirk,1.5,home,St Mirren,1.3,0.401,0.348,0.251
+2018-04-28,FC Oss,2.0,home,FC Eindhoven,1.4,0.522,0.264,0.214
+2018-04-28,Fortuna Sittard,2.1,home,Jong PSV,1.3,0.563,0.230,0.207
+2018-04-28,Free State Stars,1.4,home,Polokwane City FC,1.0,0.466,0.264,0.270
+2018-04-28,Gateshead,1.5,home,Leyton Orient,1.1,0.472,0.270,0.258
+2018-04-28,Glenavon,1.7,home,Coleraine,1.5,0.434,0.334,0.231
+2018-04-28,Go Ahead Eagles,1.4,home,FC Den Bosch,1.6,0.348,0.409,0.243
+2018-04-28,Golden Arrows,1.4,home,Platinum Stars,0.8,0.508,0.213,0.278
+2018-04-28,Greenock Morton,1.3,home,Inverness Caledonian Thistle,1.0,0.424,0.296,0.280
+2018-04-28,Grimsby Town,1.0,home,Notts County,1.4,0.281,0.450,0.269
+2018-04-28,Hamilton Academical,1.6,home,Ross County,1.3,0.449,0.306,0.245
+2018-04-28,Hapoel Acre,1.2,home,Maccabi Petach-Tikva,1.2,0.341,0.382,0.277
+2018-04-28,Helmond Sport,1.4,home,RKC Waalwijk,1.1,0.452,0.284,0.264
+2018-04-28,Hertha Berlin,1.3,home,FC Augsburg,1.1,0.418,0.304,0.279
+2018-04-28,Hibernian,1.6,home,Kilmarnock,1.0,0.537,0.218,0.246
+2018-04-28,Huddersfield Town,1.4,home,Everton,1.1,0.424,0.306,0.270
+2018-04-28,Huesca,1.4,home,Granada,0.9,0.489,0.245,0.266
+2018-04-28,Hull City,1.3,home,Cardiff City,1.4,0.364,0.379,0.258
+2018-04-28,Internazionale,1.2,home,Juventus,1.1,0.370,0.344,0.286
+2018-04-28,Kaizer Chiefs,0.9,home,Maritzburg Utd,0.8,0.371,0.294,0.335
+2018-04-28,Kayserispor,1.6,home,Alanyaspor K,1.3,0.464,0.294,0.243
+2018-04-28,Lille,1.5,home,Metz,1.0,0.483,0.260,0.257
+2018-04-28,Linfield,1.5,home,Cliftonville,1.1,0.464,0.274,0.261
+2018-04-28,Liverpool,3.1,home,Stoke City,0.7,0.834,0.058,0.108
+2018-04-28,Luton Town,2.3,home,Forest Green Rovers,0.9,0.702,0.122,0.176
+2018-04-28,Lyon,2.0,home,Nantes,0.8,0.652,0.146,0.203
+2018-04-28,Maccabi Haifa,1.1,home,Hapoel Kiryat Shmona,1.0,0.381,0.326,0.292
+2018-04-28,Macclesfield Town,1.6,home,Dagenham & Redbridge,1.0,0.514,0.240,0.246
+2018-04-28,Maidenhead Utd,1.4,home,Bromley,1.4,0.378,0.372,0.250
+2018-04-28,Maidstone United,1.5,home,Halifax,1.1,0.471,0.274,0.255
+2018-04-28,Mamelodi Sundowns,1.5,home,Ajax Cape Town,0.8,0.543,0.197,0.260
+2018-04-28,Middlesbrough,1.4,home,Millwall,0.9,0.480,0.245,0.275
+2018-04-28,Milton Keynes Dons,1.2,home,Scunthorpe United,1.2,0.347,0.378,0.274
+2018-04-28,Montrose,2.0,home,Elgin City,1.1,0.600,0.190,0.210
+2018-04-28,Morecambe,1.3,home,Barnet,1.0,0.441,0.277,0.281
+2018-04-28,Motherwell,1.6,home,Dundee,0.8,0.561,0.193,0.245
+2018-04-28,Newcastle United,1.3,home,West Bromwich Albion,0.9,0.455,0.266,0.279
+2018-04-28,Newport County,1.4,home,Cambridge United,0.9,0.490,0.242,0.268
+2018-04-28,Norwich City,1.5,home,Leeds United,1.1,0.459,0.281,0.260
+2018-04-28,Nottingham Forest,1.4,home,Bristol City,1.4,0.358,0.391,0.252
+2018-04-28,Oldham Athletic,1.4,home,Doncaster Rovers,1.3,0.393,0.349,0.258
+2018-04-28,Osasuna,1.3,home,Lugo,0.8,0.498,0.217,0.285
+2018-04-28,Oxford United,1.5,home,Rochdale,1.2,0.451,0.295,0.254
+2018-04-28,Peterborough United,1.8,home,Fleetwood Town,1.2,0.528,0.244,0.228
+2018-04-28,Peterhead,2.6,home,Edinburgh City,0.8,0.757,0.096,0.148
+2018-04-28,Plymouth Argyle,1.3,home,Rotherham United,1.3,0.381,0.357,0.262
+2018-04-28,Portimonense,1.2,home,Sporting CP,1.5,0.304,0.439,0.257
+2018-04-28,Port Vale,1.2,home,Carlisle United,1.2,0.380,0.342,0.278
+2018-04-28,Queen's Park,1.4,home,Arbroath,1.9,0.285,0.490,0.225
+2018-04-28,Queens Park Rangers,1.5,home,Birmingham City,1.0,0.495,0.244,0.260
+2018-04-28,Raith Rovers,1.7,home,Alloa Athletic,1.0,0.546,0.213,0.241
+2018-04-28,Reading,1.4,home,Ipswich Town,1.2,0.409,0.325,0.265
+2018-04-28,Real Sociedad,1.8,home,Athletic Bilbao,1.2,0.520,0.249,0.230
+2018-04-28,Real Valladolid,1.1,home,Cádiz,1.0,0.376,0.327,0.296
+2018-04-28,SC Freiburg,1.5,home,FC Cologne,1.1,0.473,0.271,0.256
+2018-04-28,Schalke 04,1.7,home,Borussia Monchengladbach,1.0,0.543,0.218,0.238
+2018-04-28,SC Rheindorf Altach,1.2,home,LASK Linz,1.0,0.407,0.306,0.287
+2018-04-28,SC Stormvogels Telstar,1.8,home,Cambuur Leeuwarden,1.4,0.458,0.311,0.231
+2018-04-28,Sevilla Atletico,1.0,home,AD Alcorcon,0.9,0.352,0.326,0.322
+2018-04-28,Sheffield United,1.3,home,Preston North End,1.1,0.425,0.299,0.276
+2018-04-28,Sint-Truidense,1.3,home,KV Oostende,1.3,0.383,0.352,0.265
+2018-04-28,Southampton,1.4,home,AFC Bournemouth,1.1,0.436,0.298,0.266
+2018-04-28,Stevenage,1.5,home,Exeter City,1.3,0.417,0.329,0.255
+2018-04-28,Stirling Albion,1.8,home,Stenhousemuir,1.3,0.487,0.280,0.233
+2018-04-28,St Johnstone,1.4,home,Partick Thistle,1.0,0.462,0.270,0.268
+2018-04-28,St Pauli,1.4,home,SpVgg Greuther Furth,1.1,0.440,0.290,0.270
+2018-04-28,Strasbourg,1.4,home,Nice,1.3,0.386,0.356,0.258
+2018-04-28,Sutton United,1.4,home,Aldershot Town,1.1,0.442,0.295,0.263
+2018-04-28,SV Darmstadt 98,1.5,home,FC Union Berlin,1.3,0.419,0.330,0.251
+2018-04-28,Swansea City,1.1,home,Chelsea,1.4,0.298,0.433,0.269
+2018-04-28,Sydney FC,2.1,home,Melbourne Victory,1.0,0.617,0.177,0.207
+2018-04-28,Torquay United,1.2,home,Ebbsfleet United,1.3,0.343,0.388,0.269
+2018-04-28,Tranmere Rovers,1.8,home,Hartlepool United,0.8,0.599,0.173,0.228
+2018-04-28,Tristán Suárez,1.0,home,Acassuso,1.0,0.349,0.347,0.303
+2018-04-28,Troyes,1.0,home,Caen,0.9,0.393,0.291,0.316
+2018-04-28,VfL Wolfsburg,1.4,home,Hamburg SV,0.8,0.501,0.225,0.274
+2018-04-28,Villarreal,1.5,home,Celta Vigo,1.3,0.423,0.322,0.254
+2018-04-28,Vitoria Setubal,1.4,home,Feirense,1.2,0.430,0.310,0.260
+2018-04-28,Walsall,1.6,home,Northampton Town,1.0,0.527,0.227,0.246
+2018-04-28,Wigan Athletic,2.0,home,AFC Wimbledon,0.7,0.680,0.123,0.197
+2018-04-28,Woking,1.2,home,Dover,1.4,0.328,0.406,0.266
+2018-04-28,Wolverhampton Wanderers,1.8,home,Sheffield Wednesday,0.8,0.631,0.149,0.220
+2018-04-28,Yeovil Town,1.3,home,Mansfield Town,1.2,0.395,0.341,0.265
+2018-04-28,Young Boys,2.1,home,Lucerne,1.0,0.622,0.176,0.202
+2018-04-29,ADO Den Haag,1.3,home,PSV Eindhoven,1.8,0.264,0.506,0.230
+2018-04-29,Ajax Amsterdam,2.0,home,AZ Alkmaar,1.4,0.514,0.272,0.214
+2018-04-29,Alavés,0.9,home,Atletico Madrid,1.2,0.276,0.428,0.296
+2018-04-29,Anderlecht,1.4,home,Royal Charleroi SC,1.1,0.442,0.295,0.263
+2018-04-29,Angers,1.1,home,Marseille,1.4,0.304,0.432,0.263
+2018-04-29,Argentino Rosario,1.6,home,Lugano,0.7,0.577,0.173,0.250
+2018-04-29,Atalanta,1.4,home,Genoa,0.7,0.542,0.186,0.271
+2018-04-29,Atlas,1.5,home,Puerto Nuevo,0.9,0.524,0.218,0.258
+2018-04-29,Belenenses,1.1,home,Braga,1.5,0.280,0.462,0.258
+2018-04-29,Benevento,1.3,home,Udinese,1.6,0.326,0.429,0.246
+2018-04-29,Boavista,1.5,home,Paços de Ferreira,0.9,0.505,0.230,0.265
+2018-04-29,Bologna,1.1,home,AC Milan,1.1,0.350,0.362,0.288
+2018-04-29,Brøndby,2.5,home,FC Nordsjaelland,1.5,0.589,0.223,0.188
+2018-04-29,Celtic,2.0,home,Rangers,1.2,0.561,0.222,0.217
+2018-04-29,Claypole,1.3,home,Deportivo Paraguayo,1.0,0.425,0.294,0.281
+2018-04-29,Crotone,1.4,home,Sassuolo,1.0,0.450,0.275,0.275
+2018-04-29,Deportivo La Coruña,0.8,home,Barcelona,2.4,0.108,0.728,0.164
+2018-04-29,FC Basel,2.2,home,FC Thun,0.9,0.686,0.130,0.184
+2018-04-29,FC Groningen,1.6,home,Excelsior,1.2,0.475,0.281,0.244
+2018-04-29,FC Ingolstadt 04,1.6,home,Holstein Kiel,1.3,0.430,0.324,0.246
+2018-04-29,FC Lugano,1.5,home,St Gallen,1.3,0.424,0.322,0.254
+2018-04-29,FC Midtjylland,2.1,home,AaB,1.0,0.621,0.176,0.204
+2018-04-29,FCSB,1.4,home,CFR Cluj-Napoca,0.9,0.474,0.249,0.277
+2018-04-29,FC Zürich,1.7,home,FC Sion,1.0,0.534,0.226,0.241
+2018-04-29,Feyenoord Rotterdam,2.7,home,Sparta Rotterdam,0.7,0.783,0.079,0.138
+2018-04-29,Fiorentina,1.1,home,Napoli,1.4,0.305,0.429,0.266
+2018-04-29,FK Amkar Perm,1.2,home,Spartak Moscow,1.4,0.328,0.406,0.265
+2018-04-29,Galatasaray,1.5,home,Besiktas,1.3,0.425,0.326,0.250
+2018-04-29,Getafe,1.4,home,Girona,0.9,0.489,0.243,0.269
+2018-04-29,Hapoel Haifa,1.1,home,Maccabi Tel-Aviv,1.1,0.369,0.340,0.292
+2018-04-29,Heidenheimer SB,1.4,home,SV Sandhausen,1.2,0.424,0.314,0.261
+2018-04-29,Hellas Verona,1.3,home,SPAL,1.2,0.379,0.350,0.271
+2018-04-29,KAA Gent,1.5,home,Standard Liege,0.9,0.504,0.233,0.263
+2018-04-29,Lyngby,1.5,home,Randers FC,1.1,0.458,0.286,0.255
+2018-04-29,Manchester United,2.0,home,Arsenal,1.0,0.603,0.182,0.215
+2018-04-29,Maritimo,1.0,home,FC Porto,1.8,0.193,0.580,0.227
+2018-04-29,MSV Duisburg,1.7,home,SSV Jahn Regensburg,1.5,0.425,0.343,0.232
+2018-04-29,Municipal,1.5,home,Marquense,0.7,0.545,0.190,0.266
+2018-04-29,NAC Breda,1.4,home,Heerenveen,1.3,0.391,0.354,0.255
+2018-04-29,Numancia,1.4,home,Real Oviedo,0.9,0.503,0.230,0.267
+2018-04-29,Panathinaikos,1.2,home,PAOK Salonika,1.2,0.374,0.350,0.276
+2018-04-29,Paris Saint-Germain,3.3,home,Guingamp,0.8,0.848,0.053,0.098
+2018-04-29,PEC Zwolle,1.8,home,Willem II Tilburg,1.2,0.503,0.266,0.231
+2018-04-29,Rayo Vallecano,1.6,home,Tenerife,1.2,0.459,0.290,0.251
+2018-04-29,Sampdoria,1.9,home,Cagliari,1.0,0.582,0.196,0.222
+2018-04-29,SC Heracles Almelo,1.6,home,FC Utrecht,1.5,0.399,0.366,0.235
+2018-04-29,SK Sturm Graz,1.5,home,Rapid Vienna,1.2,0.439,0.302,0.259
+2018-04-29,Sporting Gijón,1.5,home,Albacete,0.8,0.549,0.190,0.261
+2018-04-29,Stade Rennes,1.5,home,Toulouse,1.0,0.490,0.247,0.262
+2018-04-29,Suchitepequez,1.3,home,Coban Imperial,1.4,0.356,0.383,0.261
+2018-04-29,Talleres de Remedios de Escalada,0.9,home,Defensores de Belgrano,1.0,0.320,0.355,0.324
+2018-04-29,Torino,1.5,home,Lazio,1.6,0.365,0.397,0.238
+2018-04-29,Valencia,2.0,home,Eibar,0.9,0.626,0.162,0.213
+2018-04-29,Vitesse Arnhem,2.0,home,FC Twente,1.0,0.599,0.187,0.215
+2018-04-29,VVV Venlo,1.7,home,Roda JC Kerkrade,1.1,0.507,0.253,0.240
+2018-04-29,Werder Bremen,1.4,home,Borussia Dortmund,1.4,0.370,0.380,0.250
+2018-04-29,West Ham United,1.0,home,Manchester City,2.4,0.143,0.678,0.180
+2018-04-29,Xelaju,1.5,home,Comunicaciones,1.1,0.451,0.287,0.262
+2018-04-29,Zenit St Petersburg,1.3,home,CSKA Moscow,0.9,0.443,0.271,0.286
+2018-04-30,Central Ballester,2.1,home,Yupanqui,1.0,0.632,0.168,0.201
+2018-04-30,Centro Español,1.4,home,Deportivo Municipal Lima,0.8,0.520,0.212,0.269
+2018-04-30,Deportivo Morón,1.0,home,Gimnasia y Esgrima de Jujuy,0.8,0.394,0.273,0.333
+2018-04-30,Dinamo Moscow,1.1,home,FK Rubin Kazan,1.0,0.388,0.316,0.296
+2018-04-30,Ferro Carril Oeste,1.6,home,Nueva Chicago,0.9,0.527,0.219,0.254
+2018-04-30,Flandria,1.2,home,Instituto de Córdoba,0.8,0.435,0.261,0.304
+2018-04-30,Krasnodar,1.4,home,Lokomotiv Moscow,1.2,0.401,0.334,0.266
+2018-04-30,Lens,1.2,home,Paris FC,1.0,0.415,0.294,0.291
+2018-04-30,Liniers,1.4,home,Victoriano Arenas,0.9,0.490,0.240,0.270
+2018-04-30,Maccabi Netanya,1.6,home,Beitar Jerusalem,1.5,0.407,0.355,0.238
+2018-04-30,Nurnberg,1.6,home,TSV Eintracht Braunschweig,0.9,0.532,0.217,0.250
+2018-04-30,Real Betis,1.8,home,Málaga,0.9,0.591,0.182,0.227
+2018-04-30,Silkeborg IF,1.5,home,AGF Aarhus,1.1,0.477,0.270,0.253
+2018-04-30,Stade de Reims,1.6,home,Le Havre AC,0.9,0.541,0.210,0.249
+2018-04-30,Tottenham Hotspur,2.3,home,Watford,0.9,0.684,0.136,0.179
+2018-05-01,Bradford City,1.6,home,Walsall,1.2,0.473,0.281,0.246
+2018-05-01,Chesterfield,1.2,home,Newport County,1.4,0.338,0.399,0.263
+2018-05-01,Doncaster Rovers,1.5,home,AFC Wimbledon,0.9,0.515,0.227,0.257
+2018-05-01,Real Madrid,2.1,home,Bayern Munich,1.5,0.515,0.274,0.211
+2018-05-01,Scunthorpe United,1.5,home,Plymouth Argyle,1.0,0.493,0.251,0.256
+2018-05-02,AS Roma,1.4,home,Liverpool,1.7,0.316,0.446,0.238
+2018-05-02,Deportivo Armenio,0.9,home,Luján,0.7,0.398,0.258,0.343
+2018-05-02,Dock Sud,1.1,home,Midland,0.9,0.404,0.291,0.305

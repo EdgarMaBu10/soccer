@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="000D5D"><![CDATA[Independiente del Valle]]></home>
+  <away color="000000"><![CDATA[Deportivo Municipal Lima]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="26937201" clock="6" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>H&#233;ctor Salazar</b> - 6'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937227" clock="20" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Sergio Moreno</b> - 20'<br>Goal - Header]]></result>
+    </event>
+    <event id="26937230" clock="22" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Luis Calder&#243;n</b> - 22'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937350" clock="53" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Luis Ayala Brucil</b> - 53'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937385" clock="62" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Michael Estrada</b> - 62'<br>Goal]]></result>
+    </event>
+    <event id="26937396" clock="66" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Freddy &#193;lvarez</b> - 66'<br>Off: Pedro Guti&#233;rrez]]></result>
+    </event>
+    <event id="26937418" clock="73" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Dixon Arroyo</b> - 73'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937419" clock="73" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Joao Ortiz</b> - 73'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937426" clock="76" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Pierre Larrauri</b> - 76'<br>Goal]]></result>
+    </event>
+    <event id="26937429" clock="79" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Janner Corozo</b> - 79'<br>Off: Dixon Arroyo]]></result>
+    </event>
+    <event id="26937433" clock="80" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Christian N&#250;&#241;ez</b> - 80'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937434" clock="80" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Mario Palomino</b> - 80'<br>Off: Danny Santoya]]></result>
+    </event>
+    <event id="26937438" clock="83" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jacson Pita Mina</b> - 83'<br>Off: Felipe Jonathan Mej&#237;a]]></result>
+    </event>
+    <event id="26937442" clock="77" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Pierre Larrauri</b> - 77'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937458" clock="88" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Billy Arce</b> - 88'<br>Off: Efr&#233;n Mera]]></result>
+    </event>
+    <event id="26937468" clock="77" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Kener Arce</b> - 77'<br>Yellow Card]]></result>
+    </event>
+    <event id="26937469" clock="89" side="home" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Kener Arce</b> - 89'<br>Red Card]]></result>
+    </event>
+    <event id="26937490" clock="90" side="home" type="goal" addedTime=" +4'" videoId="">
+      <result><![CDATA[<b>Gabriel Cortez</b> - 90' +4'<br>Goal]]></result>
+    </event>
+    <event id="26937507" clock="63" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: &#211;scar Vega Salinas</b> - 63'<br>Off: Rafael Guarderas]]></result>
+    </event>
+  </events>
+</timeline>

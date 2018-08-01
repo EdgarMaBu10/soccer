@@ -19,14 +19,33 @@ r.team_id as team,
 r.opponent_id as opponent,
 r.game_length as game_length,
 team_score::float as gs,
-(year-2007)^2 as w
+(case when r.cup_name like '%Friendly%' then 0.5*(year-2007)^2
+      else (year-2007)^2
+end) as w
 from fifa.men_results r
 
 where
-    r.year between 2008 and 2016
+    r.year between 2008 and 2018
 and r.gender_id='men'
 and r.team_id is not NULL
 and r.opponent_id is not NULL
+
+and r.team_id in
+(
+select team_id
+from fifa.men_results
+where gender_id='men'
+group by team_id
+having count(*)>=10)
+
+and r.opponent_id in
+(
+select team_id
+from fifa.men_results
+where gender_id='men'
+group by team_id
+having count(*)>=10)
+
 ;")
 
 games <- fetch(query,n=-1)
@@ -95,9 +114,9 @@ fit <- glmer(model,
              data=g,
 	     verbose=TRUE,
 	     family=poisson(link=log),
-	     weights=w
-	     #nAGQ=0,
-	     #control=glmerControl(optimizer="nloptwrap")
+	     weights=w,
+	     nAGQ=0,
+	     control=glmerControl(optimizer="nloptwrap")
 	     )
 
 fit

@@ -25,19 +25,19 @@
       <result><![CDATA[<b>Miguel Borja</b> - 45' +1'<br>Penalty - Scored]]></result>
     </event>
     <event id="24072814" clock="45" side="away" type="substitution" addedTime="" videoId="">
-      <result><![CDATA[<b>On: Kevin Balanta Lucum&#237;</b> - 45'<br>Off: Miguel Godoy]]></result>
+      <result><![CDATA[<b>On: Kevin Balanta</b> - 45'<br>Off: Miguel Godoy]]></result>
     </event>
     <event id="24072823" clock="45" side="away" type="substitution" addedTime="" videoId="">
       <result><![CDATA[<b>On: Andr&#233;s Roa</b> - 45'<br>Off: Daniel Giraldo]]></result>
     </event>
     <event id="24072837" clock="48" side="home" type="yellowCard" addedTime="" videoId="">
-      <result><![CDATA[<b>Juan Campos Sosa</b> - 48'<br>Yellow Card]]></result>
+      <result><![CDATA[<b>Juan David Campo</b> - 48'<br>Yellow Card]]></result>
     </event>
     <event id="24072838" clock="48" side="away" type="yellowCard" addedTime="" videoId="">
       <result><![CDATA[<b>Harold Preciado</b> - 48'<br>Yellow Card]]></result>
     </event>
     <event id="24072856" clock="49" side="away" type="yellowCard" addedTime="" videoId="">
-      <result><![CDATA[<b>Rafael Borre</b> - 49'<br>Yellow Card]]></result>
+      <result><![CDATA[<b>Santos Borr&#233;</b> - 49'<br>Yellow Card]]></result>
     </event>
     <event id="24072892" clock="53" side="home" type="goal" addedTime="" videoId="">
       <result><![CDATA[<b>Daniel Buitrago</b> - 53'<br>Goal]]></result>
@@ -88,16 +88,16 @@
       <result><![CDATA[<b>On: Andr&#233;s Roa</b> - 45'<br>Off: Miguel Godoy]]></result>
     </event>
     <event id="24449158" clock="45" side="away" type="substitution" addedTime="" videoId="">
-      <result><![CDATA[<b>On: Kevin Balanta Lucum&#237;</b> - 45'<br>Off: Daniel Giraldo]]></result>
+      <result><![CDATA[<b>On: Kevin Balanta</b> - 45'<br>Off: Daniel Giraldo]]></result>
     </event>
     <event id="24449159" clock="48" side="away" type="yellowCard" addedTime="" videoId="">
       <result><![CDATA[<b>Harold Preciado</b> - 48'<br>Yellow Card]]></result>
     </event>
     <event id="24449160" clock="48" side="home" type="yellowCard" addedTime="" videoId="">
-      <result><![CDATA[<b>Juan Campos Sosa</b> - 48'<br>Yellow Card]]></result>
+      <result><![CDATA[<b>Juan David Campo</b> - 48'<br>Yellow Card]]></result>
     </event>
     <event id="24449162" clock="49" side="away" type="yellowCard" addedTime="" videoId="">
-      <result><![CDATA[<b>Rafael Borre</b> - 49'<br>Yellow Card]]></result>
+      <result><![CDATA[<b>Santos Borr&#233;</b> - 49'<br>Yellow Card]]></result>
     </event>
     <event id="24449163" clock="53" side="home" type="goal" addedTime="" videoId="">
       <result><![CDATA[<b>Daniel Buitrago</b> - 53'<br>Goal]]></result>

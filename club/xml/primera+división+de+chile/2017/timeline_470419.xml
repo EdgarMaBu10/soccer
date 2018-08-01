@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="D80518"><![CDATA[Atl&#233;tico-PR]]></home>
+  <away color="0a4f8d"><![CDATA[Universidad Cat&#243;lica]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27307362" clock="5" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Lucho Gonz&#225;lez</b> - 5'<br>Goal]]></result>
+    </event>
+    <event id="27307694" clock="63" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Matheus Rossetto</b> - 63'<br>Off: Lucho Gonz&#225;lez]]></result>
+    </event>
+    <event id="27307724" clock="67" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Enzo Kalinski</b> - 67'<br>Yellow Card]]></result>
+    </event>
+    <event id="27307725" clock="67" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: David Llanos</b> - 67'<br>Off: Juan Espinoza]]></result>
+    </event>
+    <event id="27307748" clock="71" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Guillermo Marip&#225;n</b> - 71'<br>Yellow Card]]></result>
+    </event>
+    <event id="27307780" clock="76" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Nik&#227;o</b> - 76'<br>Goal]]></result>
+    </event>
+    <event id="27307799" clock="78" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Fernando Cordero</b> - 78'<br>Off: Cesar Fuentes]]></result>
+    </event>
+    <event id="27307821" clock="85" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Roberto Guti&#233;rrez D&#237;az</b> - 85'<br>Off: Santiago Silva]]></result>
+    </event>
+    <event id="27307822" clock="85" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Wanderson</b> - 85'<br>Off: Otavio]]></result>
+    </event>
+    <event id="27307825" clock="86" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>David Llanos</b> - 86'<br>Goal - Header]]></result>
+    </event>
+    <event id="27307835" clock="89" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Ricardo Noir</b> - 89'<br>Goal]]></result>
+    </event>
+    <event id="27307836" clock="89" side="away" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Guillermo Marip&#225;n</b> - 89'<br>Red Card]]></result>
+    </event>
+    <event id="27307840" clock="90" side="away" type="yellowCard" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Jos&#233; Fuenzalida</b> - 90' +1'<br>Yellow Card]]></result>
+    </event>
+    <event id="27307846" clock="90" side="home" type="yellowCard" addedTime=" +3'" videoId="">
+      <result><![CDATA[<b>Thiago Heleno</b> - 90' +3'<br>Yellow Card]]></result>
+    </event>
+    <event id="27307861" clock="70" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Douglas Coutinho</b> - 70'<br>Off: Carlos Alberto]]></result>
+    </event>
+  </events>
+</timeline>

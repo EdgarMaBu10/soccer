@@ -51,9 +51,9 @@ join club._factors of on
   of.level='defense_home'
 where
     not(g.date='LIVE')
-and g.league_key = 'barclays+premier+league'
+and g.league_key = 'english+premier+league'
 and g.competition='Prem'
-and (g.date::date >= current_date or (g.year=2015 and g.status='Postp'))
+and (g.date::date >= current_date or (g.year=2016 and g.status='Postp'))
 and ((g.home_goals is null) or (g.away_goals is null))
 and g.club_id=g.home_team_id
 order by g.club_name asc,g.date::date asc
@@ -103,9 +103,9 @@ end) as ga
 from club.games g
 where
     not(g.date='LIVE')
-and g.league_key = 'barclays+premier+league'
+and g.league_key = 'english+premier+league'
 and g.competition='Prem'
-and g.year=2015
+and g.year=2016
 and g.date::date <= current_date
 and g.home_goals is not null
 and g.away_goals is not null
@@ -123,7 +123,7 @@ with open('sims2.csv', 'w') as f:
     header = ['team','n','rank','w','d','l','gf','ga','gd','pts']
     csv.writer(f).writerows([header])
 
-    for j in range(100000):
+    for j in range(10000):
 
         team = []
         w = []
@@ -176,7 +176,8 @@ with open('sims2.csv', 'w') as f:
         season['gd'] = season['gf']-season['ga']
         season['pts'] = 3*season['w']+season['d']
 
-        final = season.sort(['pts', 'gd', 'gf'], ascending=[0, 0, 0])
+        #final = season.sort(['pts', 'gd', 'gf'], ascending=[0, 0, 0])
+        final = season.sort_values(by=['pts', 'gd', 'gf'], ascending=[0, 0, 0])
 
         final['i'] = final['pts']*1000000+(final['gd']+100)*1000+final['gf']
 

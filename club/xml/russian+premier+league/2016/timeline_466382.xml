@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="d82c3a"><![CDATA[FC Salzburg]]></home>
+  <away color="000000"><![CDATA[Krasnodar]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="25947984" clock="30" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Stefan Lainer</b> - 30'<br>Off: Andre Wisdom]]></result>
+    </event>
+    <event id="25948389" clock="37" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Jo&#227;ozinho</b> - 37'<br>Goal]]></result>
+    </event>
+    <event id="25948965" clock="47" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Sergei Petrov</b> - 47'<br>Yellow Card]]></result>
+    </event>
+    <event id="25949071" clock="51" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Charles Kabor&#233;</b> - 51'<br>Yellow Card]]></result>
+    </event>
+    <event id="25949471" clock="60" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Ricardo Laborde</b> - 60'<br>Off: Vyacheslav Podberezkin]]></result>
+    </event>
+    <event id="25949515" clock="62" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Yuri Gazinski</b> - 62'<br>Off: Ofil Ahmedov]]></result>
+    </event>
+    <event id="25949738" clock="67" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Diadie Samassekou</b> - 67'<br>Yellow Card]]></result>
+    </event>
+    <event id="25949863" clock="71" side="away" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Sergei Petrov</b> - 71'<br>Red Card]]></result>
+    </event>
+    <event id="25949922" clock="73" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Moanes Dabour</b> - 73'<br>Off: Diadie Samassekou]]></result>
+    </event>
+    <event id="25950121" clock="74" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Vitaliy Kaleshin</b> - 74'<br>Off: Jo&#227;ozinho]]></result>
+    </event>
+    <event id="25950375" clock="80" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Wanderson</b> - 80'<br>Off: Stefan Lainer]]></result>
+    </event>
+    <event id="25950631" clock="86" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Ricardo Laborde</b> - 86'<br>Yellow Card]]></result>
+    </event>
+    <event id="25951036" clock="90" side="home" type="yellowCard" addedTime=" +5'" videoId="">
+      <result><![CDATA[<b>Jonathan</b> - 90' +5'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

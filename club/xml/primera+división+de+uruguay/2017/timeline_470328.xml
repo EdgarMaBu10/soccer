@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="345BBC"><![CDATA[Nacional]]></home>
+  <away color="9f0000"><![CDATA[Lan&#250;s]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27921023" clock="19" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Santiago Romero</b> - 19'<br>Yellow Card]]></result>
+    </event>
+    <event id="27921061" clock="25" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Mat&#237;as Rojas</b> - 25'<br>Off: Lautaro Acosta]]></result>
+    </event>
+    <event id="27921071" clock="27" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Alejandro Silva</b> - 27'<br>Goal]]></result>
+    </event>
+    <event id="27921164" clock="45" side="away" type="yellowCard" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Rolando Garc&#237;a</b> - 45' +1'<br>Yellow Card]]></result>
+    </event>
+    <event id="27921221" clock="45" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Rodrigo Aguirre</b> - 45'<br>Off: Kevin Ram&#237;rez]]></result>
+    </event>
+    <event id="27921326" clock="63" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Iv&#225;n Marcone</b> - 63'<br>Yellow Card]]></result>
+    </event>
+    <event id="27921328" clock="64" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Diego Braghieri</b> - 64'<br>Yellow Card]]></result>
+    </event>
+    <event id="27921335" clock="65" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Jorge Fucile</b> - 65'<br>Yellow Card]]></result>
+    </event>
+    <event id="27921355" clock="68" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Felipe Carballo Ares</b> - 68'<br>Yellow Card]]></result>
+    </event>
+    <event id="27921356" clock="69" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Martin Lig&#252;era</b> - 69'<br>Off: Sebastian Rodriguez]]></result>
+    </event>
+    <event id="27921392" clock="75" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Tabar&#233; Viudez</b> - 75'<br>Off: Seba Fern&#225;ndez]]></result>
+    </event>
+    <event id="27921432" clock="84" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Leandro Maciel</b> - 84'<br>Off: Nicol&#225;s Aguirre]]></result>
+    </event>
+  </events>
+</timeline>

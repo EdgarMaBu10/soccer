@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="C22222"><![CDATA[Uni&#243;n Espa&#241;ola]]></home>
+  <away color="6bc7f5"><![CDATA[Cerro]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27056969" clock="4" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Maureen Franco</b> - 4'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057038" clock="14" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>&#193;ngel Emanuel Luna</b> - 14'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057125" clock="26" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Pablo Manuel Galdames</b> - 26'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057162" clock="32" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Jos&#233; Barriosnuevo</b> - 32'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057184" clock="35" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Jorge Ampuero</b> - 35'<br>Goal - Header]]></result>
+    </event>
+    <event id="27057232" clock="45" side="away" type="yellowCard" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Gianni Danielle Rodr&#237;guez</b> - 45' +1'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057316" clock="48" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Diego Chur&#237;n</b> - 48'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057328" clock="50" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Lucas  Dominguez</b> - 50'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057367" clock="57" side="away" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>&#193;ngel Emanuel Luna</b> - 57'<br>Red Card]]></result>
+    </event>
+    <event id="27057440" clock="70" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Pablo Ar&#225;nguiz</b> - 70'<br>Off: Pablo Manuel Galdames]]></result>
+    </event>
+    <event id="27057469" clock="73" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Sebasti&#225;n Jaime</b> - 73'<br>Goal]]></result>
+    </event>
+    <event id="27057487" clock="73" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jose Sierra</b> - 73'<br>Off: Diego Chur&#237;n]]></result>
+    </event>
+    <event id="27057503" clock="78" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Fernando Cornejo</b> - 78'<br>Off: Dagoberto Currimilla]]></result>
+    </event>
+    <event id="27057505" clock="78" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jonathan Ram&#237;rez Perdomo</b> - 78'<br>Off: Rodrigo Izquierdo]]></result>
+    </event>
+    <event id="27057554" clock="84" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Rodrigo Canosa</b> - 84'<br>Yellow Card]]></result>
+    </event>
+    <event id="27057559" clock="85" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Jos&#233; Tancredi Malatez</b> - 85'<br>Off: Jonathan Barboza]]></result>
+    </event>
+    <event id="27057574" clock="88" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Facundo Peraza</b> - 88'<br>Off: Maureen Franco]]></result>
+    </event>
+  </events>
+</timeline>

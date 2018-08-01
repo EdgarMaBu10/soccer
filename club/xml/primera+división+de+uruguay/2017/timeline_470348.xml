@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="0000fc"><![CDATA[Zulia]]></home>
+  <away color="345BBC"><![CDATA[Nacional]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27869052" clock="22" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Luciano Guaycochea</b> - 22'<br>Yellow Card]]></result>
+    </event>
+    <event id="27869191" clock="52" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Seba Fern&#225;ndez</b> - 52'<br>Yellow Card]]></result>
+    </event>
+    <event id="27869197" clock="53" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Herve Kambou</b> - 53'<br>Yellow Card]]></result>
+    </event>
+    <event id="27869208" clock="55" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Brayan Palmezano</b> - 55'<br>Off: Luciano Guaycochea]]></result>
+    </event>
+    <event id="27869245" clock="62" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Luis Espino</b> - 62'<br>Yellow Card]]></result>
+    </event>
+    <event id="27869304" clock="69" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Sergio Sergio Unrein</b> - 69'<br>Off: Junior Moreno]]></result>
+    </event>
+    <event id="27869305" clock="70" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Rodrigo Aguirre</b> - 70'<br>Off: Hugo Silveira]]></result>
+    </event>
+    <event id="27869376" clock="79" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Albert Zambrano</b> - 79'<br>Off: Yohandry Orozco]]></result>
+    </event>
+    <event id="27869391" clock="82" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>C&#233;sar G&#243;mez</b> - 82'<br>Yellow Card]]></result>
+    </event>
+    <event id="27869424" clock="86" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Tabar&#233; Viudez</b> - 86'<br>Off: Seba Fern&#225;ndez]]></result>
+    </event>
+    <event id="27869436" clock="87" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Santiago Romero</b> - 87'<br>Yellow Card]]></result>
+    </event>
+    <event id="27869470" clock="90" side="away" type="redCard" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Diego Arismendi</b> - 90' +1'<br>Red Card]]></result>
+    </event>
+    <event id="27869471" clock="90" side="away" type="substitution" addedTime=" +2'" videoId="">
+      <result><![CDATA[<b>On: Sergio Ot&#225;lvaro</b> - 90' +2'<br>Off: Felipe Carballo Ares]]></result>
+    </event>
+    <event id="27869500" clock="90" side="home" type="redCard" addedTime=" +5'" videoId="">
+      <result><![CDATA[<b>Albert Zambrano</b> - 90' +5'<br>Red Card]]></result>
+    </event>
+  </events>
+</timeline>

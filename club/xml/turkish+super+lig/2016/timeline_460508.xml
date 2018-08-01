@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="8E003B"><![CDATA[Trabzonspor]]></home>
+  <away color="000099"><![CDATA[Caykur Rizespor]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="26369111" clock="4" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Godfrey Oboabona</b> - 4'<br>Yellow Card]]></result>
+    </event>
+    <event id="26369124" clock="5" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Mehmet Ekici</b> - 5'<br>Goal]]></result>
+    </event>
+    <event id="26369532" clock="19" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Leonard Kweuke</b> - 19'<br>Goal]]></result>
+    </event>
+    <event id="26371007" clock="67" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Ugur Demirok</b> - 67'<br>Penalty - Scored]]></result>
+    </event>
+    <event id="26371147" clock="73" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Mehmet Akyuz</b> - 73'<br>Off: Robin Yalcin]]></result>
+    </event>
+    <event id="26371148" clock="74" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Patryk Tuszynski</b> - 74'<br>Off: Ogulcan Caglayan]]></result>
+    </event>
+    <event id="26371305" clock="81" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Emrah Bassan</b> - 81'<br>Off: Ahmet Ilhan &#214;zek]]></result>
+    </event>
+    <event id="26371345" clock="83" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Leonard Kweuke</b> - 83'<br>Goal]]></result>
+    </event>
+    <event id="26371436" clock="89" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Hyun Jun Suk</b> - 89'<br>Off: Ogenyi Onazi]]></result>
+    </event>
+    <event id="26767336" clock="10" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Robin Yalcin</b> - 10'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767337" clock="45" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Matus Bero</b> - 45'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767338" clock="48" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Dhurgham Ismail</b> - 48'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767339" clock="65" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Ogulcan Caglayan</b> - 65'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767340" clock="77" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Okay Yokuslu</b> - 77'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767341" clock="80" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Zeki Yavru</b> - 80'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767342" clock="88" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Mustafa Akbas</b> - 88'<br>Yellow Card]]></result>
+    </event>
+    <event id="26767343" clock="90" side="away" type="yellowCard" addedTime=" +3'" videoId="">
+      <result><![CDATA[<b>Jakob Jantscher</b> - 90' +3'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

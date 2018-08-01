@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="000000"><![CDATA[Cardiff MU]]></home>
+  <away color="CB4335"><![CDATA[Connah's Quay]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="25910295" clock="6" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Matty Williams</b> - 6'<br>Goal]]></result>
+    </event>
+    <event id="25910568" clock="21" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Kyle McCarthy</b> - 21'<br>Yellow Card]]></result>
+    </event>
+    <event id="25910808" clock="23" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Les Davies</b> - 23'<br>Goal]]></result>
+    </event>
+    <event id="25911813" clock="63" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Danny Harrison</b> - 63'<br>Yellow Card]]></result>
+    </event>
+    <event id="25912365" clock="87" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Adam Roscrow</b> - 87'<br>Goal]]></result>
+    </event>
+    <event id="25912378" clock="90" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Adam Roscrow</b> - 90'<br>Yellow Card]]></result>
+    </event>
+    <event id="25912398" clock="90" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Will Evans</b> - 90'<br>Yellow Card]]></result>
+    </event>
+    <event id="25912415" clock="90" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>James Owen</b> - 90'<br>Yellow Card]]></result>
+    </event>
+    <event id="26067800" clock="47" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Tom Field</b> - 47'<br>Off: Ian Kearney]]></result>
+    </event>
+    <event id="26067801" clock="75" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Nick Rushton</b> - 75'<br>Off: Nathan Woolfe]]></result>
+    </event>
+    <event id="26067805" clock="85" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Matty Owen</b> - 85'<br>Off: Wes Baynes]]></result>
+    </event>
+  </events>
+</timeline>

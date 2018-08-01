@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="345BBC"><![CDATA[Nacional]]></home>
+  <away color="0000fc"><![CDATA[Zulia]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27373072" clock="7" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Edixon Cuevas</b> - 7'<br>Yellow Card]]></result>
+    </event>
+    <event id="27373254" clock="31" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Jefferson Savarino</b> - 31'<br>Goal]]></result>
+    </event>
+    <event id="27373325" clock="38" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Diego Arismendi</b> - 38'<br>Yellow Card]]></result>
+    </event>
+    <event id="27373551" clock="52" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Agustin Rogel</b> - 52'<br>Off: Diego Arismendi]]></result>
+    </event>
+    <event id="27373684" clock="62" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Luciano Guaycochea</b> - 62'<br>Yellow Card]]></result>
+    </event>
+    <event id="27373693" clock="64" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Kerwis Chirinos</b> - 64'<br>Yellow Card]]></result>
+    </event>
+    <event id="27373765" clock="72" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Martin Lig&#252;era</b> - 72'<br>Off: Luis Espino]]></result>
+    </event>
+    <event id="27373809" clock="77" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Henry Palomino</b> - 77'<br>Off: Yohandry Orozco]]></result>
+    </event>
+    <event id="27373884" clock="82" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: C&#233;sar G&#243;mez</b> - 82'<br>Off: Luciano Guaycochea]]></result>
+    </event>
+    <event id="27373914" clock="83" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Agustin Rogel</b> - 83'<br>Yellow Card]]></result>
+    </event>
+    <event id="27374016" clock="90" side="home" type="yellowCard" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>Hugo Silveira</b> - 90' +1'<br>Yellow Card]]></result>
+    </event>
+    <event id="27374035" clock="90" side="away" type="substitution" addedTime=" +2'" videoId="">
+      <result><![CDATA[<b>On: Albert Zambrano</b> - 90' +2'<br>Off: Jefferson Savarino]]></result>
+    </event>
+    <event id="27374053" clock="90" side="away" type="yellowCard" addedTime=" +3'" videoId="">
+      <result><![CDATA[<b>Albert Zambrano</b> - 90' +3'<br>Yellow Card]]></result>
+    </event>
+    <event id="27374072" clock="61" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Rodrigo Aguirre</b> - 61'<br>Off: Seba Fern&#225;ndez]]></result>
+    </event>
+  </events>
+</timeline>

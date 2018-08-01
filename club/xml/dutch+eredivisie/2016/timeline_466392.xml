@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="C60C21"><![CDATA[AZ Alkmaar]]></home>
+  <away color="000099"><![CDATA[Dundalk]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="25944213" clock="45" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Stephen O'Donnell</b> - 45'<br>Yellow Card]]></result>
+    </event>
+    <event id="25944773" clock="55" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Wout Weghorst</b> - 55'<br>Off: Fred Friday]]></result>
+    </event>
+    <event id="25945160" clock="60" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Stijn Wuytens</b> - 60'<br>Goal - Header]]></result>
+    </event>
+    <event id="25945353" clock="65" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Ben Rienstra</b> - 65'<br>Off: Stijn Wuytens]]></result>
+    </event>
+    <event id="25945589" clock="71" side="away" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Stephen O'Donnell</b> - 71'<br>Red Card]]></result>
+    </event>
+    <event id="25945768" clock="75" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Chris Shields</b> - 75'<br>Off: David McMillan]]></result>
+    </event>
+    <event id="25945769" clock="75" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Iliass Bel Hassani</b> - 75'<br>Off: Alireza Jahanbakhsh]]></result>
+    </event>
+    <event id="25945899" clock="77" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Robbie Benson</b> - 77'<br>Off: John Mountney]]></result>
+    </event>
+    <event id="25946174" clock="84" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Ciar&#225;n Kilduff</b> - 84'<br>Off: Patrick McEleney]]></result>
+    </event>
+    <event id="25946260" clock="85" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Robbie Benson</b> - 85'<br>Yellow Card]]></result>
+    </event>
+    <event id="25946305" clock="87" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Mattias Johansson</b> - 87'<br>Yellow Card]]></result>
+    </event>
+    <event id="25946395" clock="89" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Ciar&#225;n Kilduff</b> - 89'<br>Goal - Header]]></result>
+    </event>
+    <event id="25946645" clock="90" side="away" type="yellowCard" addedTime=" +5'" videoId="">
+      <result><![CDATA[<b>Ciar&#225;n Kilduff</b> - 90' +5'<br>Yellow Card]]></result>
+    </event>
+  </events>
+</timeline>

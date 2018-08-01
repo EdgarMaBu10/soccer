@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="0a4f8d"><![CDATA[Universidad Cat&#243;lica]]></home>
+  <away color="D80518"><![CDATA[Atl&#233;tico-PR]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="27876719" clock="36" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Santiago Silva</b> - 36'<br>Goal]]></result>
+    </event>
+    <event id="27877329" clock="49" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Santiago Silva</b> - 49'<br>Yellow Card]]></result>
+    </event>
+    <event id="27877568" clock="61" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Carlos Espinosa</b> - 61'<br>Yellow Card]]></result>
+    </event>
+    <event id="27877579" clock="62" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Nik&#227;o</b> - 62'<br>Yellow Card]]></result>
+    </event>
+    <event id="27877588" clock="63" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Carlos Alberto</b> - 63'<br>Off: Lucho Gonz&#225;lez]]></result>
+    </event>
+    <event id="27877654" clock="67" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Eduardo</b> - 67'<br>Off: Grafite]]></result>
+    </event>
+    <event id="27877847" clock="75" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Douglas Coutinho</b> - 75'<br>Off: Pablo]]></result>
+    </event>
+    <event id="27877867" clock="76" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Fernando Cordero</b> - 76'<br>Off: Jos&#233; Fuenzalida]]></result>
+    </event>
+    <event id="27877879" clock="76" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Eduardo</b> - 76'<br>Goal - Header]]></result>
+    </event>
+    <event id="27877944" clock="79" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Roberto Guti&#233;rrez D&#237;az</b> - 79'<br>Off: Fabi&#225;n Manzano]]></result>
+    </event>
+    <event id="27878011" clock="82" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Douglas Coutinho</b> - 82'<br>Goal]]></result>
+    </event>
+    <event id="27878050" clock="85" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Ricardo Noir</b> - 85'<br>Goal]]></result>
+    </event>
+    <event id="27878090" clock="86" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Christian Bravo</b> - 86'<br>Off: St&#233;fano Magnasco]]></result>
+    </event>
+    <event id="27878100" clock="87" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Carlos Alberto</b> - 87'<br>Goal]]></result>
+    </event>
+    <event id="27878125" clock="89" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Diego Buonanotte</b> - 89'<br>Yellow Card]]></result>
+    </event>
+    <event id="27878227" clock="90" side="away" type="yellowCard" addedTime=" +3'" videoId="">
+      <result><![CDATA[<b>Wanderson</b> - 90' +3'<br>Yellow Card]]></result>
+    </event>
+    <event id="27878228" clock="90" side="away" type="yellowCard" addedTime=" +3'" videoId="">
+      <result><![CDATA[<b>Matheus Rossetto</b> - 90' +3'<br>Yellow Card]]></result>
+    </event>
+    <event id="27878235" clock="90" side="away" type="redCard" addedTime=" +4'" videoId="">
+      <result><![CDATA[<b>Wanderson</b> - 90' +4'<br>Red Card]]></result>
+    </event>
+  </events>
+</timeline>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="FF0000"><![CDATA[Panionios]]></home>
+  <away color="000040"><![CDATA[Olympiakos]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="26216660" clock="15" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Alberto Bot&#237;a</b> - 15'<br>Goal]]></result>
+    </event>
+    <event id="26216810" clock="22" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Valentinos Vlachos</b> - 22'<br>Yellow Card]]></result>
+    </event>
+    <event id="26216965" clock="30" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Panagiotis Retsos</b> - 30'<br>Yellow Card]]></result>
+    </event>
+    <event id="26218026" clock="64" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Luka Milivojevic</b> - 64'<br>Goal]]></result>
+    </event>
+    <event id="26218040" clock="65" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Alejandro Dom&#237;nguez</b> - 65'<br>Off: Marko Marin]]></result>
+    </event>
+    <event id="26218110" clock="73" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Seb&#225;</b> - 73'<br>Yellow Card]]></result>
+    </event>
+    <event id="26218135" clock="71" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Masoud Shojaei</b> - 71'<br>Yellow Card]]></result>
+    </event>
+    <event id="26218167" clock="76" side="away" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Panagiotis Retsos</b> - 76'<br>Red Card]]></result>
+    </event>
+    <event id="26218182" clock="78" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Bruno Viana</b> - 78'<br>Off: Seb&#225;]]></result>
+    </event>
+    <event id="26218266" clock="80" side="away" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Alejandro Dom&#237;nguez</b> - 80'<br>Yellow Card]]></result>
+    </event>
+    <event id="26218299" clock="80" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Taxiarchis Fountas</b> - 80'<br>Yellow Card]]></result>
+    </event>
+    <event id="26218387" clock="88" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: David Ngog</b> - 88'<br>Off: Panagiotis Korbos]]></result>
+    </event>
+    <event id="26218403" clock="89" side="home" type="redCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Valentinos Vlachos</b> - 89'<br>Red Card]]></result>
+    </event>
+    <event id="26218572" clock="68" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Michael Olaitan</b> - 68'<br>Off: Georgios Masouras]]></result>
+    </event>
+    <event id="26218594" clock="90" side="away" type="substitution" addedTime=" +1'" videoId="">
+      <result><![CDATA[<b>On: Esteban Cambiasso</b> - 90' +1'<br>Off: Brown Ideye]]></result>
+    </event>
+  </events>
+</timeline>

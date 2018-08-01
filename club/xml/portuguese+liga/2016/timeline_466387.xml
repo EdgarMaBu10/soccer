@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timeline clock="90" videoEnabled="f">
+  <home color="de1f26"><![CDATA[Braga]]></home>
+  <away color="0860a8"><![CDATA[KAA Gent]]></away>
+  <period>2</period>
+  <gameStatus>FINAL</gameStatus>
+  <gameStatusText>FT</gameStatusText>
+  <events>
+    <event id="25946931" clock="6" side="away" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Danijel Milicevic</b> - 6'<br>Goal - Free-kick]]></result>
+    </event>
+    <event id="25947765" clock="24" side="home" type="goal" addedTime="" videoId="">
+      <result><![CDATA[<b>Andr&#233; Pinto</b> - 24'<br>Goal - Header]]></result>
+    </event>
+    <event id="25948461" clock="40" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Kalifa Coulibaly</b> - 40'<br>Off: Moses Simon]]></result>
+    </event>
+    <event id="25948629" clock="44" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Lazar Rosic</b> - 44'<br>Yellow Card]]></result>
+    </event>
+    <event id="25949557" clock="61" side="home" type="yellowCard" addedTime="" videoId="">
+      <result><![CDATA[<b>Pedro Santos</b> - 61'<br>Yellow Card]]></result>
+    </event>
+    <event id="25949948" clock="70" side="away" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Ofir Davidadza</b> - 70'<br>Off: J&#233;r&#233;my Perbet]]></result>
+    </event>
+    <event id="25950156" clock="73" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Nikola Vukcevic</b> - 73'<br>Off: Marko Bakic]]></result>
+    </event>
+    <event id="25950346" clock="76" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Nikola Stojilijkovic</b> - 76'<br>Off: Pedro Santos]]></result>
+    </event>
+    <event id="25950606" clock="84" side="home" type="substitution" addedTime="" videoId="">
+      <result><![CDATA[<b>On: Alan</b> - 84'<br>Off: Wilson Eduardo]]></result>
+    </event>
+  </events>
+</timeline>
